@@ -1,0 +1,1088 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\android\app\src\main\AndroidManifest.xml:1:1-41:12
+INJECTED from C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\android\app\src\main\AndroidManifest.xml:1:1-41:12
+INJECTED from C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\android\app\src\main\AndroidManifest.xml:1:1-41:12
+INJECTED from C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\android\app\src\main\AndroidManifest.xml:1:1-41:12
+MERGED from C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\android\app\src\main\AndroidManifest.xml:1:1-41:12
+MERGED from [:flutter_custom_tabs] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\flutter_custom_tabs\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:firebase_crashlytics] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\firebase_crashlytics\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:cloud_firestore] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_analytics] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\firebase_analytics\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-19:12
+MERGED from [:firebase_auth] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_remote_config] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\firebase_remote_config\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_core] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:nb_utils] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\nb_utils\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-10:12
+MERGED from [:file_picker] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\file_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-17:12
+MERGED from [:image_picker_android] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-19:12
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:sqflite] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\sqflite\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:url_launcher_android] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-14:12
+MERGED from [:scan] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\scan\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-13:12
+MERGED from [:path_provider_android] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:google_sign_in_android] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\google_sign_in_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:connectivity_plus] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\connectivity_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:webview_flutter_android] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\webview_flutter_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences_android] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\shared_preferences_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:fluttertoast] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\fluttertoast\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:share] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\share\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-19:12
+MERGED from [com.github.droibit:customtabslauncher:1.6.0] C:\Users\pavan g\.gradle\caches\transforms-3\46ebdea4a36dadefa33ad7164de27a78\transformed\jetified-customtabslauncher-1.6.0\AndroidManifest.xml:2:1-15:12
+MERGED from [androidx.appcompat:appcompat:1.4.2] C:\Users\pavan g\.gradle\caches\transforms-3\4c88129577becf18817dbc72762196cd\transformed\appcompat-1.4.2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth:20.4.1] C:\Users\pavan g\.gradle\caches\transforms-3\5f803d0257221eb5daf19fb31cc49c05\transformed\jetified-play-services-auth-20.4.1\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-crashlytics:18.2.13] C:\Users\pavan g\.gradle\caches\transforms-3\ffc29d0eb65a7a4c856158f04e2183a0\transformed\jetified-firebase-crashlytics-18.2.13\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-analytics:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\4c7a2d6f9639867d8f44383da28d3070\transformed\jetified-firebase-analytics-21.1.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\e1552c0857e12e36abf5ae70ff868c10\transformed\jetified-play-services-measurement-api-21.1.1\AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-firestore:24.3.1] C:\Users\pavan g\.gradle\caches\transforms-3\11c63b2584a98d0d18facc58cadf09d7\transformed\jetified-firebase-firestore-24.3.1\AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.firebase:firebase-auth:21.0.8] C:\Users\pavan g\.gradle\caches\transforms-3\3ed435f39e4453e17acb9b83397ccee8\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:17:1-73:12
+MERGED from [com.google.firebase:firebase-config:21.1.2] C:\Users\pavan g\.gradle\caches\transforms-3\3c8be18e562f941f802dc2d95aec95b5\transformed\jetified-firebase-config-21.1.2\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.firebase:firebase-installations:17.0.3] C:\Users\pavan g\.gradle\caches\transforms-3\6fe758d5507236f770482c3d0c591ba2\transformed\jetified-firebase-installations-17.0.3\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.2] C:\Users\pavan g\.gradle\caches\transforms-3\c1b7a224f3d1ed83bb493bbfc242f111\transformed\jetified-firebase-appcheck-interop-16.0.2\AndroidManifest.xml:15:1-26:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\8c2881e4d811c6d5747d9e0539643061\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-abt:21.0.2] C:\Users\pavan g\.gradle\caches\transforms-3\f23e95c7fa13693e00a3380abd7742d9\transformed\jetified-firebase-abt-21.0.2\AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.firebase:firebase-common:20.1.2] C:\Users\pavan g\.gradle\caches\transforms-3\de76412fc1043fdff90df7589bbcee2f\transformed\jetified-firebase-common-20.1.2\AndroidManifest.xml:15:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\f46fcc4f26d73d577c5192c5e8c5fa51\transformed\jetified-play-services-measurement-21.1.1\AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\300bba8d9b1f4341f632c172e724700c\transformed\jetified-play-services-measurement-sdk-21.1.1\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.2] C:\Users\pavan g\.gradle\caches\transforms-3\2a30ab5a9ee772e00f93ed522d61d414\transformed\jetified-firebase-installations-interop-17.0.2\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] C:\Users\pavan g\.gradle\caches\transforms-3\9c7cd67d1bd8ec5f1034bb2f92fb7b96\transformed\jetified-play-services-auth-api-phone-18.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] C:\Users\pavan g\.gradle\caches\transforms-3\d7bc6c7ec7ca1f7c23b5b32e3ac51570\transformed\jetified-play-services-auth-base-18.0.4\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-fido:19.0.1] C:\Users\pavan g\.gradle\caches\transforms-3\91b78d6424dfa6dfeadd9faaf9b253b7\transformed\jetified-play-services-fido-19.0.1\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\pavan g\.gradle\caches\transforms-3\ab46b877410bd850beab14479d096c8c\transformed\jetified-firebase-database-collection-18.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\d32e412833769cb2a2f394f5b41d8262\transformed\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\pavan g\.gradle\caches\transforms-3\79cc58874c9e041aad2678a983ec6360\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\pavan g\.gradle\caches\transforms-3\63132df471e462e1b4f1308629883108\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\8d53355057c8513777b1336fc819c0eb\transformed\jetified-play-services-measurement-impl-21.1.1\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\82689967077af265d7ba9e00307f221b\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\b57e9060b9e5acced630872be92ffe74\transformed\jetified-play-services-measurement-sdk-api-21.1.1\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-measurement-base:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\a78ea34a9c1349593e48382907040dd4\transformed\jetified-play-services-measurement-base-21.1.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\pavan g\.gradle\caches\transforms-3\fd519e083d797a3c9b4869a790389db8\transformed\jetified-play-services-stats-17.0.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\dda8ab2c35e2cf5a4d093e9dc2c7b4de\transformed\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\pavan g\.gradle\caches\transforms-3\e6848d90a3e5fac83b0282305bfdbd72\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\pavan g\.gradle\caches\transforms-3\fcdf6da2372f382b20add2e2f120ccf1\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.1] C:\Users\pavan g\.gradle\caches\transforms-3\ccddcbc7a2511773510cfe72a6d1eb72\transformed\jetified-activity-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\7e16e31714f544f4589dc5fada305c3c\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\9e517e6d2536c848673dbd616d7436b9\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\pavan g\.gradle\caches\transforms-3\d5d5202a0554d99b47c7727a96e91a72\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\pavan g\.gradle\caches\transforms-3\7cd3b79559272fb7ec8c131d3f9c502b\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\pavan g\.gradle\caches\transforms-3\7c53f48c1dcb4c17897cc78bcb44ec15\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\pavan g\.gradle\caches\transforms-3\ac64a08067c68c4c2a34d24a1770e09f\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\pavan g\.gradle\caches\transforms-3\4a63bf39ba48adf52802e50438326f37\transformed\multidex-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.7] C:\Users\pavan g\.gradle\caches\transforms-3\0e9a7468c0ff93732a1ef717415dbc15\transformed\jetified-transport-backend-cct-3.1.7\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.7] C:\Users\pavan g\.gradle\caches\transforms-3\1a615f561b1cf1fb5f1668371031423b\transformed\jetified-transport-runtime-3.1.7\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\7b24bb68c5010710c417de0878dcd95a\transformed\jetified-firebase-encoders-json-18.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.webkit:webkit:1.5.0] C:\Users\pavan g\.gradle\caches\transforms-3\a57f65c3f33c34a662ff8d2eb107d9a7\transformed\webkit-1.5.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] C:\Users\pavan g\.gradle\caches\transforms-3\d161891db843a0d56db915d17a27a8d9\transformed\jetified-appcompat-resources-1.4.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\03b4a7959f9744289e986d3d0eff7ae3\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\86907f28036453f21a461e73350c706a\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\7e0f0259e26c150d820cc0a71795ed4c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\300478f23745f564611e0ed16d948931\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\pavan g\.gradle\caches\transforms-3\d7c24fb183e4f3a0d43e8d1ba743cf78\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\pavan g\.gradle\caches\transforms-3\95b078609aa581d6c25696a08ecb80b5\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\bd55dc6bf77790da0cb781a4230411f6\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\pavan g\.gradle\caches\transforms-3\44f6d0c8835c07d4fba29fc003f06dbd\transformed\browser-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\pavan g\.gradle\caches\transforms-3\1a5c3fb82a9a7dd97acf84970541b6ce\transformed\jetified-core-ktx-1.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.core:core:1.8.0] C:\Users\pavan g\.gradle\caches\transforms-3\b3f3d54402e1333f9298b7760c7f299b\transformed\core-1.8.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\pavan g\.gradle\caches\transforms-3\21146192b8d7617abfb175005555ba04\transformed\exifinterface-1.3.3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\7d935a1881d5ec276f2dc8b6f7633008\transformed\jetified-transport-api-3.0.0\AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.0.1] C:\Users\pavan g\.gradle\caches\transforms-3\eea5f6a99a4be62fbb7e18f32d7c5e71\transformed\jetified-firebase-components-17.0.1\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\pavan g\.gradle\caches\transforms-3\4f497b4a933bc0f6e2ce3b4abaeb4ad1\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\1a3864e246ce0b5ea6e15c39be616811\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\9851ea1242ae46bf17e8785a8ced9f28\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\14e45d54ce0b481c5846f2d83b920518\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\c33d5eee293b75d0c02d7691a6dc54a1\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\pavan g\.gradle\caches\transforms-3\6f1eda3eb9c3c73bb34fb1ad23683f63\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\pavan g\.gradle\caches\transforms-3\ddeb10e4964416c6561220fd7a412ea0\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\600516bccf3c3f9d33b348255dc7d58e\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.huawei.hms:scanplus:2.1.0.300] C:\Users\pavan g\.gradle\caches\transforms-3\ec5019b1b42581db05cd6ac30cd344b1\transformed\jetified-scanplus-2.1.0.300\AndroidManifest.xml:2:1-33:12
+MERGED from [com.huawei.hms:network-grs:4.0.20.301] C:\Users\pavan g\.gradle\caches\transforms-3\912d8bc0fb5fb70991a7ca53988302bc\transformed\jetified-network-grs-4.0.20.301\AndroidManifest.xml:2:1-11:12
+MERGED from [com.huawei.android.hms:security-ssl:1.1.5.301] C:\Users\pavan g\.gradle\caches\transforms-3\501054fa21dee1f75c0c36f47d6c78b1\transformed\jetified-security-ssl-1.1.5.301\AndroidManifest.xml:2:1-15:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\7aa3fae43f20fad9662c4912f216710b\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\pavan g\.gradle\caches\transforms-3\fd4249e6e7401b780c7370e037422559\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\pavan g\.gradle\caches\transforms-3\2240e8251feb4fad50176773e03b095c\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\1e8fb93eeb786f1a5d82e37ec20809db\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\85502d54f38bb46b98ccd9f8d1329655\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\32bed6bc788ee8607ad94e3b180f440f\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\pavan g\.gradle\caches\transforms-3\1bda60c28220ed680095f6bf4cd73067\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:17:1-56:12
+MERGED from [io.grpc:grpc-android:1.48.1] C:\Users\pavan g\.gradle\caches\transforms-3\23dad8f750b46347625385f8351a0d3f\transformed\jetified-grpc-android-1.48.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.huawei.hms:dynamic-api:1.0.13.303] C:\Users\pavan g\.gradle\caches\transforms-3\b76e3711cb18287e1477badf13187abf\transformed\jetified-dynamic-api-1.0.13.303\AndroidManifest.xml:2:1-20:12
+MERGED from [com.huawei.hms:ml-computer-sdkbase-inner:2.0.5.304] C:\Users\pavan g\.gradle\caches\transforms-3\fd838fe7f4d5a2daecf509492074ba4f\transformed\jetified-ml-computer-sdkbase-inner-2.0.5.304\AndroidManifest.xml:3:1-19:12
+MERGED from [com.huawei.hms:ml-computer-agc-inner:2.0.5.304] C:\Users\pavan g\.gradle\caches\transforms-3\5c3d1f53c1f5c57a90eab5b2c5e748d1\transformed\jetified-ml-computer-agc-inner-2.0.5.304\AndroidManifest.xml:3:1-12:12
+MERGED from [com.huawei.agconnect:agconnect-core:1.4.0.300] C:\Users\pavan g\.gradle\caches\transforms-3\74ae793eb8e5d5d91a3cf76154cbcb7f\transformed\jetified-agconnect-core-1.4.0.300\AndroidManifest.xml:2:1-21:12
+MERGED from [com.huawei.hmf:tasks:1.4.1.300] C:\Users\pavan g\.gradle\caches\transforms-3\98d4319ef87c2a223fda6ee764d9c786\transformed\jetified-tasks-1.4.1.300\AndroidManifest.xml:2:1-10:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\pavan g\.gradle\caches\transforms-3\f73cec0c4ae8a8bdb620e469e7eeb897\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\5a6c7ebea01dc63f03ba0d820d04d9bb\transformed\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.huawei.hms:network-framework-compat:4.0.20.301] C:\Users\pavan g\.gradle\caches\transforms-3\6796647969edd53915483303df3762fa\transformed\jetified-network-framework-compat-4.0.20.301\AndroidManifest.xml:2:1-11:12
+MERGED from [com.huawei.hms:network-common:4.0.20.301] C:\Users\pavan g\.gradle\caches\transforms-3\4cdb4bddf291785f0b53c32afcd22e44\transformed\jetified-network-common-4.0.20.301\AndroidManifest.xml:2:1-11:12
+MERGED from [com.huawei.hms:ml-computer-commonutils-inner:2.0.5.304] C:\Users\pavan g\.gradle\caches\transforms-3\9ebb5f647fa1956db18ffe937d21adb0\transformed\jetified-ml-computer-commonutils-inner-2.0.5.304\AndroidManifest.xml:3:1-12:12
+INJECTED from C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\android\app\src\main\AndroidManifest.xml:2:5-42
+		INJECTED from C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\android\app\src\main\AndroidManifest.xml:1:1-41:12
+		INJECTED from C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\android\app\src\main\AndroidManifest.xml:1:1-41:12
+		INJECTED from C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\android\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\android\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\android\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [:firebase_analytics] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\firebase_analytics\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-67
+MERGED from [:firebase_analytics] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\firebase_analytics\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-67
+MERGED from [:nb_utils] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\nb_utils\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-67
+MERGED from [:nb_utils] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\nb_utils\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-67
+MERGED from [:google_sign_in_android] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\google_sign_in_android\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-67
+MERGED from [:google_sign_in_android] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\google_sign_in_android\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-67
+MERGED from [com.google.firebase:firebase-crashlytics:18.2.13] C:\Users\pavan g\.gradle\caches\transforms-3\ffc29d0eb65a7a4c856158f04e2183a0\transformed\jetified-firebase-crashlytics-18.2.13\AndroidManifest.xml:10:5-67
+MERGED from [com.google.firebase:firebase-crashlytics:18.2.13] C:\Users\pavan g\.gradle\caches\transforms-3\ffc29d0eb65a7a4c856158f04e2183a0\transformed\jetified-firebase-crashlytics-18.2.13\AndroidManifest.xml:10:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\e1552c0857e12e36abf5ae70ff868c10\transformed\jetified-play-services-measurement-api-21.1.1\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\e1552c0857e12e36abf5ae70ff868c10\transformed\jetified-play-services-measurement-api-21.1.1\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-firestore:24.3.1] C:\Users\pavan g\.gradle\caches\transforms-3\11c63b2584a98d0d18facc58cadf09d7\transformed\jetified-firebase-firestore-24.3.1\AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-firestore:24.3.1] C:\Users\pavan g\.gradle\caches\transforms-3\11c63b2584a98d0d18facc58cadf09d7\transformed\jetified-firebase-firestore-24.3.1\AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-auth:21.0.8] C:\Users\pavan g\.gradle\caches\transforms-3\3ed435f39e4453e17acb9b83397ccee8\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-auth:21.0.8] C:\Users\pavan g\.gradle\caches\transforms-3\3ed435f39e4453e17acb9b83397ccee8\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-config:21.1.2] C:\Users\pavan g\.gradle\caches\transforms-3\3c8be18e562f941f802dc2d95aec95b5\transformed\jetified-firebase-config-21.1.2\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-config:21.1.2] C:\Users\pavan g\.gradle\caches\transforms-3\3c8be18e562f941f802dc2d95aec95b5\transformed\jetified-firebase-config-21.1.2\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.3] C:\Users\pavan g\.gradle\caches\transforms-3\6fe758d5507236f770482c3d0c591ba2\transformed\jetified-firebase-installations-17.0.3\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.3] C:\Users\pavan g\.gradle\caches\transforms-3\6fe758d5507236f770482c3d0c591ba2\transformed\jetified-firebase-installations-17.0.3\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-measurement:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\f46fcc4f26d73d577c5192c5e8c5fa51\transformed\jetified-play-services-measurement-21.1.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\f46fcc4f26d73d577c5192c5e8c5fa51\transformed\jetified-play-services-measurement-21.1.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\8d53355057c8513777b1336fc819c0eb\transformed\jetified-play-services-measurement-impl-21.1.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\8d53355057c8513777b1336fc819c0eb\transformed\jetified-play-services-measurement-impl-21.1.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\b57e9060b9e5acced630872be92ffe74\transformed\jetified-play-services-measurement-sdk-api-21.1.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\b57e9060b9e5acced630872be92ffe74\transformed\jetified-play-services-measurement-sdk-api-21.1.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.7] C:\Users\pavan g\.gradle\caches\transforms-3\0e9a7468c0ff93732a1ef717415dbc15\transformed\jetified-transport-backend-cct-3.1.7\AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.7] C:\Users\pavan g\.gradle\caches\transforms-3\0e9a7468c0ff93732a1ef717415dbc15\transformed\jetified-transport-backend-cct-3.1.7\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\android\app\src\main\AndroidManifest.xml:5:5-79
+MERGED from [:firebase_analytics] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\firebase_analytics\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-79
+MERGED from [:firebase_analytics] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\firebase_analytics\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-79
+MERGED from [:nb_utils] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\nb_utils\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-79
+MERGED from [:nb_utils] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\nb_utils\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-79
+MERGED from [:connectivity_plus] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\connectivity_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-79
+MERGED from [:connectivity_plus] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\connectivity_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\e1552c0857e12e36abf5ae70ff868c10\transformed\jetified-play-services-measurement-api-21.1.1\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\e1552c0857e12e36abf5ae70ff868c10\transformed\jetified-play-services-measurement-api-21.1.1\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-firestore:24.3.1] C:\Users\pavan g\.gradle\caches\transforms-3\11c63b2584a98d0d18facc58cadf09d7\transformed\jetified-firebase-firestore-24.3.1\AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-firestore:24.3.1] C:\Users\pavan g\.gradle\caches\transforms-3\11c63b2584a98d0d18facc58cadf09d7\transformed\jetified-firebase-firestore-24.3.1\AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-auth:21.0.8] C:\Users\pavan g\.gradle\caches\transforms-3\3ed435f39e4453e17acb9b83397ccee8\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-auth:21.0.8] C:\Users\pavan g\.gradle\caches\transforms-3\3ed435f39e4453e17acb9b83397ccee8\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-config:21.1.2] C:\Users\pavan g\.gradle\caches\transforms-3\3c8be18e562f941f802dc2d95aec95b5\transformed\jetified-firebase-config-21.1.2\AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-config:21.1.2] C:\Users\pavan g\.gradle\caches\transforms-3\3c8be18e562f941f802dc2d95aec95b5\transformed\jetified-firebase-config-21.1.2\AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.3] C:\Users\pavan g\.gradle\caches\transforms-3\6fe758d5507236f770482c3d0c591ba2\transformed\jetified-firebase-installations-17.0.3\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.3] C:\Users\pavan g\.gradle\caches\transforms-3\6fe758d5507236f770482c3d0c591ba2\transformed\jetified-firebase-installations-17.0.3\AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-measurement:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\f46fcc4f26d73d577c5192c5e8c5fa51\transformed\jetified-play-services-measurement-21.1.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\f46fcc4f26d73d577c5192c5e8c5fa51\transformed\jetified-play-services-measurement-21.1.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\8d53355057c8513777b1336fc819c0eb\transformed\jetified-play-services-measurement-impl-21.1.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\8d53355057c8513777b1336fc819c0eb\transformed\jetified-play-services-measurement-impl-21.1.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\b57e9060b9e5acced630872be92ffe74\transformed\jetified-play-services-measurement-sdk-api-21.1.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\b57e9060b9e5acced630872be92ffe74\transformed\jetified-play-services-measurement-sdk-api-21.1.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.7] C:\Users\pavan g\.gradle\caches\transforms-3\0e9a7468c0ff93732a1ef717415dbc15\transformed\jetified-transport-backend-cct-3.1.7\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.7] C:\Users\pavan g\.gradle\caches\transforms-3\0e9a7468c0ff93732a1ef717415dbc15\transformed\jetified-transport-backend-cct-3.1.7\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.7] C:\Users\pavan g\.gradle\caches\transforms-3\1a615f561b1cf1fb5f1668371031423b\transformed\jetified-transport-runtime-3.1.7\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.7] C:\Users\pavan g\.gradle\caches\transforms-3\1a615f561b1cf1fb5f1668371031423b\transformed\jetified-transport-runtime-3.1.7\AndroidManifest.xml:22:5-79
+MERGED from [io.grpc:grpc-android:1.48.1] C:\Users\pavan g\.gradle\caches\transforms-3\23dad8f750b46347625385f8351a0d3f\transformed\jetified-grpc-android-1.48.1\AndroidManifest.xml:9:5-79
+MERGED from [io.grpc:grpc-android:1.48.1] C:\Users\pavan g\.gradle\caches\transforms-3\23dad8f750b46347625385f8351a0d3f\transformed\jetified-grpc-android-1.48.1\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\android\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\android\app\src\main\AndroidManifest.xml:6:5-80
+MERGED from [:file_picker] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\file_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-80
+MERGED from [:file_picker] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\file_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\android\app\src\main\AndroidManifest.xml:6:22-77
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\android\app\src\main\AndroidManifest.xml:7:5-65
+MERGED from [:scan] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\scan\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-65
+MERGED from [:scan] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\scan\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-65
+MERGED from [com.huawei.hms:scanplus:2.1.0.300] C:\Users\pavan g\.gradle\caches\transforms-3\ec5019b1b42581db05cd6ac30cd344b1\transformed\jetified-scanplus-2.1.0.300\AndroidManifest.xml:11:5-65
+MERGED from [com.huawei.hms:scanplus:2.1.0.300] C:\Users\pavan g\.gradle\caches\transforms-3\ec5019b1b42581db05cd6ac30cd344b1\transformed\jetified-scanplus-2.1.0.300\AndroidManifest.xml:11:5-65
+MERGED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\pavan g\.gradle\caches\transforms-3\1bda60c28220ed680095f6bf4cd73067\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:22:5-65
+MERGED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\pavan g\.gradle\caches\transforms-3\1bda60c28220ed680095f6bf4cd73067\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:22:5-65
+	android:name
+		ADDED from C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\android\app\src\main\AndroidManifest.xml:7:22-62
+application
+ADDED from C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\android\app\src\main\AndroidManifest.xml:10:5-40:19
+MERGED from [:firebase_crashlytics] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\firebase_crashlytics\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_crashlytics] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\firebase_crashlytics\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:cloud_firestore] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:cloud_firestore] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_analytics] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\firebase_analytics\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-17:19
+MERGED from [:firebase_analytics] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\firebase_analytics\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-17:19
+MERGED from [:firebase_auth] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_auth] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_remote_config] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\firebase_remote_config\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_remote_config] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\firebase_remote_config\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:image_picker_android] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-17:19
+MERGED from [:image_picker_android] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-17:19
+MERGED from [:url_launcher_android] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher_android] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-12:19
+MERGED from [:share] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\share\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-17:19
+MERGED from [:share] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\share\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-17:19
+MERGED from [com.google.android.gms:play-services-auth:20.4.1] C:\Users\pavan g\.gradle\caches\transforms-3\5f803d0257221eb5daf19fb31cc49c05\transformed\jetified-play-services-auth-20.4.1\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:20.4.1] C:\Users\pavan g\.gradle\caches\transforms-3\5f803d0257221eb5daf19fb31cc49c05\transformed\jetified-play-services-auth-20.4.1\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.firebase:firebase-crashlytics:18.2.13] C:\Users\pavan g\.gradle\caches\transforms-3\ffc29d0eb65a7a4c856158f04e2183a0\transformed\jetified-firebase-crashlytics-18.2.13\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-crashlytics:18.2.13] C:\Users\pavan g\.gradle\caches\transforms-3\ffc29d0eb65a7a4c856158f04e2183a0\transformed\jetified-firebase-crashlytics-18.2.13\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-analytics:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\4c7a2d6f9639867d8f44383da28d3070\transformed\jetified-firebase-analytics-21.1.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\4c7a2d6f9639867d8f44383da28d3070\transformed\jetified-firebase-analytics-21.1.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\e1552c0857e12e36abf5ae70ff868c10\transformed\jetified-play-services-measurement-api-21.1.1\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\e1552c0857e12e36abf5ae70ff868c10\transformed\jetified-play-services-measurement-api-21.1.1\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.firebase:firebase-firestore:24.3.1] C:\Users\pavan g\.gradle\caches\transforms-3\11c63b2584a98d0d18facc58cadf09d7\transformed\jetified-firebase-firestore-24.3.1\AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:24.3.1] C:\Users\pavan g\.gradle\caches\transforms-3\11c63b2584a98d0d18facc58cadf09d7\transformed\jetified-firebase-firestore-24.3.1\AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-auth:21.0.8] C:\Users\pavan g\.gradle\caches\transforms-3\3ed435f39e4453e17acb9b83397ccee8\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:26:5-71:19
+MERGED from [com.google.firebase:firebase-auth:21.0.8] C:\Users\pavan g\.gradle\caches\transforms-3\3ed435f39e4453e17acb9b83397ccee8\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:26:5-71:19
+MERGED from [com.google.firebase:firebase-config:21.1.2] C:\Users\pavan g\.gradle\caches\transforms-3\3c8be18e562f941f802dc2d95aec95b5\transformed\jetified-firebase-config-21.1.2\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-config:21.1.2] C:\Users\pavan g\.gradle\caches\transforms-3\3c8be18e562f941f802dc2d95aec95b5\transformed\jetified-firebase-config-21.1.2\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-installations:17.0.3] C:\Users\pavan g\.gradle\caches\transforms-3\6fe758d5507236f770482c3d0c591ba2\transformed\jetified-firebase-installations-17.0.3\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-installations:17.0.3] C:\Users\pavan g\.gradle\caches\transforms-3\6fe758d5507236f770482c3d0c591ba2\transformed\jetified-firebase-installations-17.0.3\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.2] C:\Users\pavan g\.gradle\caches\transforms-3\c1b7a224f3d1ed83bb493bbfc242f111\transformed\jetified-firebase-appcheck-interop-16.0.2\AndroidManifest.xml:24:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.2] C:\Users\pavan g\.gradle\caches\transforms-3\c1b7a224f3d1ed83bb493bbfc242f111\transformed\jetified-firebase-appcheck-interop-16.0.2\AndroidManifest.xml:24:5-20
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\8c2881e4d811c6d5747d9e0539643061\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\8c2881e4d811c6d5747d9e0539643061\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-abt:21.0.2] C:\Users\pavan g\.gradle\caches\transforms-3\f23e95c7fa13693e00a3380abd7742d9\transformed\jetified-firebase-abt-21.0.2\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-abt:21.0.2] C:\Users\pavan g\.gradle\caches\transforms-3\f23e95c7fa13693e00a3380abd7742d9\transformed\jetified-firebase-abt-21.0.2\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:20.1.2] C:\Users\pavan g\.gradle\caches\transforms-3\de76412fc1043fdff90df7589bbcee2f\transformed\jetified-firebase-common-20.1.2\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.1.2] C:\Users\pavan g\.gradle\caches\transforms-3\de76412fc1043fdff90df7589bbcee2f\transformed\jetified-firebase-common-20.1.2\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\f46fcc4f26d73d577c5192c5e8c5fa51\transformed\jetified-play-services-measurement-21.1.1\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\f46fcc4f26d73d577c5192c5e8c5fa51\transformed\jetified-play-services-measurement-21.1.1\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\300bba8d9b1f4341f632c172e724700c\transformed\jetified-play-services-measurement-sdk-21.1.1\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\300bba8d9b1f4341f632c172e724700c\transformed\jetified-play-services-measurement-sdk-21.1.1\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-fido:19.0.1] C:\Users\pavan g\.gradle\caches\transforms-3\91b78d6424dfa6dfeadd9faaf9b253b7\transformed\jetified-play-services-fido-19.0.1\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:19.0.1] C:\Users\pavan g\.gradle\caches\transforms-3\91b78d6424dfa6dfeadd9faaf9b253b7\transformed\jetified-play-services-fido-19.0.1\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\d32e412833769cb2a2f394f5b41d8262\transformed\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\d32e412833769cb2a2f394f5b41d8262\transformed\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\pavan g\.gradle\caches\transforms-3\79cc58874c9e041aad2678a983ec6360\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\pavan g\.gradle\caches\transforms-3\79cc58874c9e041aad2678a983ec6360\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\pavan g\.gradle\caches\transforms-3\63132df471e462e1b4f1308629883108\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\pavan g\.gradle\caches\transforms-3\63132df471e462e1b4f1308629883108\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\8d53355057c8513777b1336fc819c0eb\transformed\jetified-play-services-measurement-impl-21.1.1\AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\8d53355057c8513777b1336fc819c0eb\transformed\jetified-play-services-measurement-impl-21.1.1\AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\82689967077af265d7ba9e00307f221b\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\82689967077af265d7ba9e00307f221b\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\a78ea34a9c1349593e48382907040dd4\transformed\jetified-play-services-measurement-base-21.1.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\a78ea34a9c1349593e48382907040dd4\transformed\jetified-play-services-measurement-base-21.1.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\pavan g\.gradle\caches\transforms-3\fd519e083d797a3c9b4869a790389db8\transformed\jetified-play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\pavan g\.gradle\caches\transforms-3\fd519e083d797a3c9b4869a790389db8\transformed\jetified-play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\dda8ab2c35e2cf5a4d093e9dc2c7b4de\transformed\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\dda8ab2c35e2cf5a4d093e9dc2c7b4de\transformed\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\pavan g\.gradle\caches\transforms-3\e6848d90a3e5fac83b0282305bfdbd72\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\pavan g\.gradle\caches\transforms-3\e6848d90a3e5fac83b0282305bfdbd72\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\pavan g\.gradle\caches\transforms-3\ac64a08067c68c4c2a34d24a1770e09f\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\pavan g\.gradle\caches\transforms-3\ac64a08067c68c4c2a34d24a1770e09f\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.7] C:\Users\pavan g\.gradle\caches\transforms-3\0e9a7468c0ff93732a1ef717415dbc15\transformed\jetified-transport-backend-cct-3.1.7\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.7] C:\Users\pavan g\.gradle\caches\transforms-3\0e9a7468c0ff93732a1ef717415dbc15\transformed\jetified-transport-backend-cct-3.1.7\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.7] C:\Users\pavan g\.gradle\caches\transforms-3\1a615f561b1cf1fb5f1668371031423b\transformed\jetified-transport-runtime-3.1.7\AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.7] C:\Users\pavan g\.gradle\caches\transforms-3\1a615f561b1cf1fb5f1668371031423b\transformed\jetified-transport-runtime-3.1.7\AndroidManifest.xml:25:5-39:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\7e0f0259e26c150d820cc0a71795ed4c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\7e0f0259e26c150d820cc0a71795ed4c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.8.0] C:\Users\pavan g\.gradle\caches\transforms-3\b3f3d54402e1333f9298b7760c7f299b\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] C:\Users\pavan g\.gradle\caches\transforms-3\b3f3d54402e1333f9298b7760c7f299b\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\pavan g\.gradle\caches\transforms-3\4f497b4a933bc0f6e2ce3b4abaeb4ad1\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\pavan g\.gradle\caches\transforms-3\4f497b4a933bc0f6e2ce3b4abaeb4ad1\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\1a3864e246ce0b5ea6e15c39be616811\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\1a3864e246ce0b5ea6e15c39be616811\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\c33d5eee293b75d0c02d7691a6dc54a1\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\c33d5eee293b75d0c02d7691a6dc54a1\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [com.huawei.hms:scanplus:2.1.0.300] C:\Users\pavan g\.gradle\caches\transforms-3\ec5019b1b42581db05cd6ac30cd344b1\transformed\jetified-scanplus-2.1.0.300\AndroidManifest.xml:13:5-31:19
+MERGED from [com.huawei.hms:scanplus:2.1.0.300] C:\Users\pavan g\.gradle\caches\transforms-3\ec5019b1b42581db05cd6ac30cd344b1\transformed\jetified-scanplus-2.1.0.300\AndroidManifest.xml:13:5-31:19
+MERGED from [com.huawei.android.hms:security-ssl:1.1.5.301] C:\Users\pavan g\.gradle\caches\transforms-3\501054fa21dee1f75c0c36f47d6c78b1\transformed\jetified-security-ssl-1.1.5.301\AndroidManifest.xml:9:5-13:19
+MERGED from [com.huawei.android.hms:security-ssl:1.1.5.301] C:\Users\pavan g\.gradle\caches\transforms-3\501054fa21dee1f75c0c36f47d6c78b1\transformed\jetified-security-ssl-1.1.5.301\AndroidManifest.xml:9:5-13:19
+MERGED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\pavan g\.gradle\caches\transforms-3\1bda60c28220ed680095f6bf4cd73067\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:46:5-54:19
+MERGED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\pavan g\.gradle\caches\transforms-3\1bda60c28220ed680095f6bf4cd73067\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:46:5-54:19
+MERGED from [com.huawei.hms:dynamic-api:1.0.13.303] C:\Users\pavan g\.gradle\caches\transforms-3\b76e3711cb18287e1477badf13187abf\transformed\jetified-dynamic-api-1.0.13.303\AndroidManifest.xml:11:5-18:19
+MERGED from [com.huawei.hms:dynamic-api:1.0.13.303] C:\Users\pavan g\.gradle\caches\transforms-3\b76e3711cb18287e1477badf13187abf\transformed\jetified-dynamic-api-1.0.13.303\AndroidManifest.xml:11:5-18:19
+MERGED from [com.huawei.hms:ml-computer-sdkbase-inner:2.0.5.304] C:\Users\pavan g\.gradle\caches\transforms-3\fd838fe7f4d5a2daecf509492074ba4f\transformed\jetified-ml-computer-sdkbase-inner-2.0.5.304\AndroidManifest.xml:12:5-17:19
+MERGED from [com.huawei.hms:ml-computer-sdkbase-inner:2.0.5.304] C:\Users\pavan g\.gradle\caches\transforms-3\fd838fe7f4d5a2daecf509492074ba4f\transformed\jetified-ml-computer-sdkbase-inner-2.0.5.304\AndroidManifest.xml:12:5-17:19
+MERGED from [com.huawei.agconnect:agconnect-core:1.4.0.300] C:\Users\pavan g\.gradle\caches\transforms-3\74ae793eb8e5d5d91a3cf76154cbcb7f\transformed\jetified-agconnect-core-1.4.0.300\AndroidManifest.xml:10:5-19:19
+MERGED from [com.huawei.agconnect:agconnect-core:1.4.0.300] C:\Users\pavan g\.gradle\caches\transforms-3\74ae793eb8e5d5d91a3cf76154cbcb7f\transformed\jetified-agconnect-core-1.4.0.300\AndroidManifest.xml:10:5-19:19
+	android:requestLegacyExternalStorage
+		ADDED from C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\android\app\src\main\AndroidManifest.xml:13:9-52
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] C:\Users\pavan g\.gradle\caches\transforms-3\b3f3d54402e1333f9298b7760c7f299b\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\android\app\src\main\AndroidManifest.xml:11:9-33
+	android:icon
+		ADDED from C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\android\app\src\main\AndroidManifest.xml:14:9-43
+	android:usesCleartextTraffic
+		ADDED from C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\android\app\src\main\AndroidManifest.xml:12:9-44
+activity#com.iqonic.kivicare_flutter.MainActivity
+ADDED from C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\android\app\src\main\AndroidManifest.xml:16:9-36:20
+	android:launchMode
+		ADDED from C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\android\app\src\main\AndroidManifest.xml:18:13-43
+	android:hardwareAccelerated
+		ADDED from C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\android\app\src\main\AndroidManifest.xml:21:13-47
+	android:windowSoftInputMode
+		ADDED from C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\android\app\src\main\AndroidManifest.xml:23:13-55
+	android:exported
+		ADDED from C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\android\app\src\main\AndroidManifest.xml:22:13-36
+	android:configChanges
+		ADDED from C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\android\app\src\main\AndroidManifest.xml:20:13-163
+	android:theme
+		ADDED from C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\android\app\src\main\AndroidManifest.xml:19:13-47
+	android:name
+		ADDED from C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\android\app\src\main\AndroidManifest.xml:17:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\android\app\src\main\AndroidManifest.xml:24:13-27:17
+	android:resource
+		ADDED from C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\android\app\src\main\AndroidManifest.xml:26:15-52
+	android:name
+		ADDED from C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\android\app\src\main\AndroidManifest.xml:25:15-70
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\android\app\src\main\AndroidManifest.xml:32:13-35:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\android\app\src\main\AndroidManifest.xml:33:17-68
+	android:name
+		ADDED from C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\android\app\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\android\app\src\main\AndroidManifest.xml:34:17-76
+	android:name
+		ADDED from C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\android\app\src\main\AndroidManifest.xml:34:27-74
+meta-data#flutterEmbedding
+ADDED from C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\android\app\src\main\AndroidManifest.xml:37:9-39:33
+	android:value
+		ADDED from C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\android\app\src\main\AndroidManifest.xml:39:13-30
+	android:name
+		ADDED from C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\android\app\src\main\AndroidManifest.xml:38:13-44
+uses-sdk
+INJECTED from C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\android\app\src\main\AndroidManifest.xml
+MERGED from [:flutter_custom_tabs] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\flutter_custom_tabs\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_custom_tabs] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\flutter_custom_tabs\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_crashlytics] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\firebase_crashlytics\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_crashlytics] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\firebase_crashlytics\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_analytics] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\firebase_analytics\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_analytics] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\firebase_analytics\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_remote_config] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\firebase_remote_config\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_remote_config] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\firebase_remote_config\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:nb_utils] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\nb_utils\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:nb_utils] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\nb_utils\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:file_picker] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\file_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:file_picker] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\file_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker_android] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker_android] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\sqflite\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\sqflite\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_android] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_android] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:scan] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\scan\intermediates\merged_manifest\debug\AndroidManifest.xml:6:5-8:67
+MERGED from [:scan] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\scan\intermediates\merged_manifest\debug\AndroidManifest.xml:6:5-8:67
+MERGED from [:path_provider_android] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:google_sign_in_android] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\google_sign_in_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:google_sign_in_android] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\google_sign_in_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:connectivity_plus] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\connectivity_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:connectivity_plus] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\connectivity_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:webview_flutter_android] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\webview_flutter_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:webview_flutter_android] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\webview_flutter_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\shared_preferences_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\shared_preferences_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:fluttertoast] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\fluttertoast\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:fluttertoast] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\fluttertoast\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:share] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\share\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:share] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\share\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [com.github.droibit:customtabslauncher:1.6.0] C:\Users\pavan g\.gradle\caches\transforms-3\46ebdea4a36dadefa33ad7164de27a78\transformed\jetified-customtabslauncher-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.droibit:customtabslauncher:1.6.0] C:\Users\pavan g\.gradle\caches\transforms-3\46ebdea4a36dadefa33ad7164de27a78\transformed\jetified-customtabslauncher-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.2] C:\Users\pavan g\.gradle\caches\transforms-3\4c88129577becf18817dbc72762196cd\transformed\appcompat-1.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.2] C:\Users\pavan g\.gradle\caches\transforms-3\4c88129577becf18817dbc72762196cd\transformed\appcompat-1.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-auth:20.4.1] C:\Users\pavan g\.gradle\caches\transforms-3\5f803d0257221eb5daf19fb31cc49c05\transformed\jetified-play-services-auth-20.4.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.4.1] C:\Users\pavan g\.gradle\caches\transforms-3\5f803d0257221eb5daf19fb31cc49c05\transformed\jetified-play-services-auth-20.4.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crashlytics:18.2.13] C:\Users\pavan g\.gradle\caches\transforms-3\ffc29d0eb65a7a4c856158f04e2183a0\transformed\jetified-firebase-crashlytics-18.2.13\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-crashlytics:18.2.13] C:\Users\pavan g\.gradle\caches\transforms-3\ffc29d0eb65a7a4c856158f04e2183a0\transformed\jetified-firebase-crashlytics-18.2.13\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-analytics:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\4c7a2d6f9639867d8f44383da28d3070\transformed\jetified-firebase-analytics-21.1.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\4c7a2d6f9639867d8f44383da28d3070\transformed\jetified-firebase-analytics-21.1.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\e1552c0857e12e36abf5ae70ff868c10\transformed\jetified-play-services-measurement-api-21.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\e1552c0857e12e36abf5ae70ff868c10\transformed\jetified-play-services-measurement-api-21.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-firestore:24.3.1] C:\Users\pavan g\.gradle\caches\transforms-3\11c63b2584a98d0d18facc58cadf09d7\transformed\jetified-firebase-firestore-24.3.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-firestore:24.3.1] C:\Users\pavan g\.gradle\caches\transforms-3\11c63b2584a98d0d18facc58cadf09d7\transformed\jetified-firebase-firestore-24.3.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-auth:21.0.8] C:\Users\pavan g\.gradle\caches\transforms-3\3ed435f39e4453e17acb9b83397ccee8\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:21.0.8] C:\Users\pavan g\.gradle\caches\transforms-3\3ed435f39e4453e17acb9b83397ccee8\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-config:21.1.2] C:\Users\pavan g\.gradle\caches\transforms-3\3c8be18e562f941f802dc2d95aec95b5\transformed\jetified-firebase-config-21.1.2\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.firebase:firebase-config:21.1.2] C:\Users\pavan g\.gradle\caches\transforms-3\3c8be18e562f941f802dc2d95aec95b5\transformed\jetified-firebase-config-21.1.2\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.firebase:firebase-installations:17.0.3] C:\Users\pavan g\.gradle\caches\transforms-3\6fe758d5507236f770482c3d0c591ba2\transformed\jetified-firebase-installations-17.0.3\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:17.0.3] C:\Users\pavan g\.gradle\caches\transforms-3\6fe758d5507236f770482c3d0c591ba2\transformed\jetified-firebase-installations-17.0.3\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.2] C:\Users\pavan g\.gradle\caches\transforms-3\c1b7a224f3d1ed83bb493bbfc242f111\transformed\jetified-firebase-appcheck-interop-16.0.2\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.2] C:\Users\pavan g\.gradle\caches\transforms-3\c1b7a224f3d1ed83bb493bbfc242f111\transformed\jetified-firebase-appcheck-interop-16.0.2\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\8c2881e4d811c6d5747d9e0539643061\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\8c2881e4d811c6d5747d9e0539643061\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-abt:21.0.2] C:\Users\pavan g\.gradle\caches\transforms-3\f23e95c7fa13693e00a3380abd7742d9\transformed\jetified-firebase-abt-21.0.2\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-abt:21.0.2] C:\Users\pavan g\.gradle\caches\transforms-3\f23e95c7fa13693e00a3380abd7742d9\transformed\jetified-firebase-abt-21.0.2\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:20.1.2] C:\Users\pavan g\.gradle\caches\transforms-3\de76412fc1043fdff90df7589bbcee2f\transformed\jetified-firebase-common-20.1.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.1.2] C:\Users\pavan g\.gradle\caches\transforms-3\de76412fc1043fdff90df7589bbcee2f\transformed\jetified-firebase-common-20.1.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-measurement:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\f46fcc4f26d73d577c5192c5e8c5fa51\transformed\jetified-play-services-measurement-21.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\f46fcc4f26d73d577c5192c5e8c5fa51\transformed\jetified-play-services-measurement-21.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\300bba8d9b1f4341f632c172e724700c\transformed\jetified-play-services-measurement-sdk-21.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\300bba8d9b1f4341f632c172e724700c\transformed\jetified-play-services-measurement-sdk-21.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.2] C:\Users\pavan g\.gradle\caches\transforms-3\2a30ab5a9ee772e00f93ed522d61d414\transformed\jetified-firebase-installations-interop-17.0.2\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.2] C:\Users\pavan g\.gradle\caches\transforms-3\2a30ab5a9ee772e00f93ed522d61d414\transformed\jetified-firebase-installations-interop-17.0.2\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] C:\Users\pavan g\.gradle\caches\transforms-3\9c7cd67d1bd8ec5f1034bb2f92fb7b96\transformed\jetified-play-services-auth-api-phone-18.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] C:\Users\pavan g\.gradle\caches\transforms-3\9c7cd67d1bd8ec5f1034bb2f92fb7b96\transformed\jetified-play-services-auth-api-phone-18.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] C:\Users\pavan g\.gradle\caches\transforms-3\d7bc6c7ec7ca1f7c23b5b32e3ac51570\transformed\jetified-play-services-auth-base-18.0.4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] C:\Users\pavan g\.gradle\caches\transforms-3\d7bc6c7ec7ca1f7c23b5b32e3ac51570\transformed\jetified-play-services-auth-base-18.0.4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:19.0.1] C:\Users\pavan g\.gradle\caches\transforms-3\91b78d6424dfa6dfeadd9faaf9b253b7\transformed\jetified-play-services-fido-19.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:19.0.1] C:\Users\pavan g\.gradle\caches\transforms-3\91b78d6424dfa6dfeadd9faaf9b253b7\transformed\jetified-play-services-fido-19.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\pavan g\.gradle\caches\transforms-3\ab46b877410bd850beab14479d096c8c\transformed\jetified-firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\pavan g\.gradle\caches\transforms-3\ab46b877410bd850beab14479d096c8c\transformed\jetified-firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\d32e412833769cb2a2f394f5b41d8262\transformed\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\d32e412833769cb2a2f394f5b41d8262\transformed\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\pavan g\.gradle\caches\transforms-3\79cc58874c9e041aad2678a983ec6360\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\pavan g\.gradle\caches\transforms-3\79cc58874c9e041aad2678a983ec6360\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\pavan g\.gradle\caches\transforms-3\63132df471e462e1b4f1308629883108\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\pavan g\.gradle\caches\transforms-3\63132df471e462e1b4f1308629883108\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\8d53355057c8513777b1336fc819c0eb\transformed\jetified-play-services-measurement-impl-21.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\8d53355057c8513777b1336fc819c0eb\transformed\jetified-play-services-measurement-impl-21.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\82689967077af265d7ba9e00307f221b\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\82689967077af265d7ba9e00307f221b\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\b57e9060b9e5acced630872be92ffe74\transformed\jetified-play-services-measurement-sdk-api-21.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\b57e9060b9e5acced630872be92ffe74\transformed\jetified-play-services-measurement-sdk-api-21.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\a78ea34a9c1349593e48382907040dd4\transformed\jetified-play-services-measurement-base-21.1.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\a78ea34a9c1349593e48382907040dd4\transformed\jetified-play-services-measurement-base-21.1.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\pavan g\.gradle\caches\transforms-3\fd519e083d797a3c9b4869a790389db8\transformed\jetified-play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\pavan g\.gradle\caches\transforms-3\fd519e083d797a3c9b4869a790389db8\transformed\jetified-play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\dda8ab2c35e2cf5a4d093e9dc2c7b4de\transformed\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\dda8ab2c35e2cf5a4d093e9dc2c7b4de\transformed\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\pavan g\.gradle\caches\transforms-3\e6848d90a3e5fac83b0282305bfdbd72\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\pavan g\.gradle\caches\transforms-3\e6848d90a3e5fac83b0282305bfdbd72\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\pavan g\.gradle\caches\transforms-3\fcdf6da2372f382b20add2e2f120ccf1\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\pavan g\.gradle\caches\transforms-3\fcdf6da2372f382b20add2e2f120ccf1\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.1] C:\Users\pavan g\.gradle\caches\transforms-3\ccddcbc7a2511773510cfe72a6d1eb72\transformed\jetified-activity-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.1] C:\Users\pavan g\.gradle\caches\transforms-3\ccddcbc7a2511773510cfe72a6d1eb72\transformed\jetified-activity-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\7e16e31714f544f4589dc5fada305c3c\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\7e16e31714f544f4589dc5fada305c3c\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\9e517e6d2536c848673dbd616d7436b9\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\9e517e6d2536c848673dbd616d7436b9\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\pavan g\.gradle\caches\transforms-3\d5d5202a0554d99b47c7727a96e91a72\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\pavan g\.gradle\caches\transforms-3\d5d5202a0554d99b47c7727a96e91a72\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\pavan g\.gradle\caches\transforms-3\7cd3b79559272fb7ec8c131d3f9c502b\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\pavan g\.gradle\caches\transforms-3\7cd3b79559272fb7ec8c131d3f9c502b\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\pavan g\.gradle\caches\transforms-3\7c53f48c1dcb4c17897cc78bcb44ec15\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\pavan g\.gradle\caches\transforms-3\7c53f48c1dcb4c17897cc78bcb44ec15\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\pavan g\.gradle\caches\transforms-3\ac64a08067c68c4c2a34d24a1770e09f\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\pavan g\.gradle\caches\transforms-3\ac64a08067c68c4c2a34d24a1770e09f\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\pavan g\.gradle\caches\transforms-3\4a63bf39ba48adf52802e50438326f37\transformed\multidex-2.0.1\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\pavan g\.gradle\caches\transforms-3\4a63bf39ba48adf52802e50438326f37\transformed\multidex-2.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.7] C:\Users\pavan g\.gradle\caches\transforms-3\0e9a7468c0ff93732a1ef717415dbc15\transformed\jetified-transport-backend-cct-3.1.7\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.7] C:\Users\pavan g\.gradle\caches\transforms-3\0e9a7468c0ff93732a1ef717415dbc15\transformed\jetified-transport-backend-cct-3.1.7\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.7] C:\Users\pavan g\.gradle\caches\transforms-3\1a615f561b1cf1fb5f1668371031423b\transformed\jetified-transport-runtime-3.1.7\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.7] C:\Users\pavan g\.gradle\caches\transforms-3\1a615f561b1cf1fb5f1668371031423b\transformed\jetified-transport-runtime-3.1.7\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\7b24bb68c5010710c417de0878dcd95a\transformed\jetified-firebase-encoders-json-18.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\7b24bb68c5010710c417de0878dcd95a\transformed\jetified-firebase-encoders-json-18.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.webkit:webkit:1.5.0] C:\Users\pavan g\.gradle\caches\transforms-3\a57f65c3f33c34a662ff8d2eb107d9a7\transformed\webkit-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.webkit:webkit:1.5.0] C:\Users\pavan g\.gradle\caches\transforms-3\a57f65c3f33c34a662ff8d2eb107d9a7\transformed\webkit-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] C:\Users\pavan g\.gradle\caches\transforms-3\d161891db843a0d56db915d17a27a8d9\transformed\jetified-appcompat-resources-1.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] C:\Users\pavan g\.gradle\caches\transforms-3\d161891db843a0d56db915d17a27a8d9\transformed\jetified-appcompat-resources-1.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\03b4a7959f9744289e986d3d0eff7ae3\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\03b4a7959f9744289e986d3d0eff7ae3\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\86907f28036453f21a461e73350c706a\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\86907f28036453f21a461e73350c706a\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\7e0f0259e26c150d820cc0a71795ed4c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\7e0f0259e26c150d820cc0a71795ed4c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\300478f23745f564611e0ed16d948931\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\300478f23745f564611e0ed16d948931\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\pavan g\.gradle\caches\transforms-3\d7c24fb183e4f3a0d43e8d1ba743cf78\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\pavan g\.gradle\caches\transforms-3\d7c24fb183e4f3a0d43e8d1ba743cf78\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\pavan g\.gradle\caches\transforms-3\95b078609aa581d6c25696a08ecb80b5\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\pavan g\.gradle\caches\transforms-3\95b078609aa581d6c25696a08ecb80b5\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\bd55dc6bf77790da0cb781a4230411f6\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\bd55dc6bf77790da0cb781a4230411f6\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\pavan g\.gradle\caches\transforms-3\44f6d0c8835c07d4fba29fc003f06dbd\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\pavan g\.gradle\caches\transforms-3\44f6d0c8835c07d4fba29fc003f06dbd\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\pavan g\.gradle\caches\transforms-3\1a5c3fb82a9a7dd97acf84970541b6ce\transformed\jetified-core-ktx-1.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\pavan g\.gradle\caches\transforms-3\1a5c3fb82a9a7dd97acf84970541b6ce\transformed\jetified-core-ktx-1.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core:1.8.0] C:\Users\pavan g\.gradle\caches\transforms-3\b3f3d54402e1333f9298b7760c7f299b\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] C:\Users\pavan g\.gradle\caches\transforms-3\b3f3d54402e1333f9298b7760c7f299b\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\pavan g\.gradle\caches\transforms-3\21146192b8d7617abfb175005555ba04\transformed\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\pavan g\.gradle\caches\transforms-3\21146192b8d7617abfb175005555ba04\transformed\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\7d935a1881d5ec276f2dc8b6f7633008\transformed\jetified-transport-api-3.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\7d935a1881d5ec276f2dc8b6f7633008\transformed\jetified-transport-api-3.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:17.0.1] C:\Users\pavan g\.gradle\caches\transforms-3\eea5f6a99a4be62fbb7e18f32d7c5e71\transformed\jetified-firebase-components-17.0.1\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.1] C:\Users\pavan g\.gradle\caches\transforms-3\eea5f6a99a4be62fbb7e18f32d7c5e71\transformed\jetified-firebase-components-17.0.1\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\pavan g\.gradle\caches\transforms-3\4f497b4a933bc0f6e2ce3b4abaeb4ad1\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\pavan g\.gradle\caches\transforms-3\4f497b4a933bc0f6e2ce3b4abaeb4ad1\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\1a3864e246ce0b5ea6e15c39be616811\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\1a3864e246ce0b5ea6e15c39be616811\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\9851ea1242ae46bf17e8785a8ced9f28\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\9851ea1242ae46bf17e8785a8ced9f28\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\14e45d54ce0b481c5846f2d83b920518\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\14e45d54ce0b481c5846f2d83b920518\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\c33d5eee293b75d0c02d7691a6dc54a1\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\c33d5eee293b75d0c02d7691a6dc54a1\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\pavan g\.gradle\caches\transforms-3\6f1eda3eb9c3c73bb34fb1ad23683f63\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\pavan g\.gradle\caches\transforms-3\6f1eda3eb9c3c73bb34fb1ad23683f63\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\pavan g\.gradle\caches\transforms-3\ddeb10e4964416c6561220fd7a412ea0\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\pavan g\.gradle\caches\transforms-3\ddeb10e4964416c6561220fd7a412ea0\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\600516bccf3c3f9d33b348255dc7d58e\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\600516bccf3c3f9d33b348255dc7d58e\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.huawei.hms:scanplus:2.1.0.300] C:\Users\pavan g\.gradle\caches\transforms-3\ec5019b1b42581db05cd6ac30cd344b1\transformed\jetified-scanplus-2.1.0.300\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huawei.hms:scanplus:2.1.0.300] C:\Users\pavan g\.gradle\caches\transforms-3\ec5019b1b42581db05cd6ac30cd344b1\transformed\jetified-scanplus-2.1.0.300\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huawei.hms:network-grs:4.0.20.301] C:\Users\pavan g\.gradle\caches\transforms-3\912d8bc0fb5fb70991a7ca53988302bc\transformed\jetified-network-grs-4.0.20.301\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huawei.hms:network-grs:4.0.20.301] C:\Users\pavan g\.gradle\caches\transforms-3\912d8bc0fb5fb70991a7ca53988302bc\transformed\jetified-network-grs-4.0.20.301\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huawei.android.hms:security-ssl:1.1.5.301] C:\Users\pavan g\.gradle\caches\transforms-3\501054fa21dee1f75c0c36f47d6c78b1\transformed\jetified-security-ssl-1.1.5.301\AndroidManifest.xml:7:5-43
+MERGED from [com.huawei.android.hms:security-ssl:1.1.5.301] C:\Users\pavan g\.gradle\caches\transforms-3\501054fa21dee1f75c0c36f47d6c78b1\transformed\jetified-security-ssl-1.1.5.301\AndroidManifest.xml:7:5-43
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\7aa3fae43f20fad9662c4912f216710b\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\7aa3fae43f20fad9662c4912f216710b\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\pavan g\.gradle\caches\transforms-3\fd4249e6e7401b780c7370e037422559\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\pavan g\.gradle\caches\transforms-3\fd4249e6e7401b780c7370e037422559\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\pavan g\.gradle\caches\transforms-3\2240e8251feb4fad50176773e03b095c\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\pavan g\.gradle\caches\transforms-3\2240e8251feb4fad50176773e03b095c\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\1e8fb93eeb786f1a5d82e37ec20809db\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\1e8fb93eeb786f1a5d82e37ec20809db\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\85502d54f38bb46b98ccd9f8d1329655\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\85502d54f38bb46b98ccd9f8d1329655\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\32bed6bc788ee8607ad94e3b180f440f\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\32bed6bc788ee8607ad94e3b180f440f\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\pavan g\.gradle\caches\transforms-3\1bda60c28220ed680095f6bf4cd73067\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\pavan g\.gradle\caches\transforms-3\1bda60c28220ed680095f6bf4cd73067\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:20:5-44
+MERGED from [io.grpc:grpc-android:1.48.1] C:\Users\pavan g\.gradle\caches\transforms-3\23dad8f750b46347625385f8351a0d3f\transformed\jetified-grpc-android-1.48.1\AndroidManifest.xml:5:5-7:41
+MERGED from [io.grpc:grpc-android:1.48.1] C:\Users\pavan g\.gradle\caches\transforms-3\23dad8f750b46347625385f8351a0d3f\transformed\jetified-grpc-android-1.48.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.huawei.hms:dynamic-api:1.0.13.303] C:\Users\pavan g\.gradle\caches\transforms-3\b76e3711cb18287e1477badf13187abf\transformed\jetified-dynamic-api-1.0.13.303\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huawei.hms:dynamic-api:1.0.13.303] C:\Users\pavan g\.gradle\caches\transforms-3\b76e3711cb18287e1477badf13187abf\transformed\jetified-dynamic-api-1.0.13.303\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huawei.hms:ml-computer-sdkbase-inner:2.0.5.304] C:\Users\pavan g\.gradle\caches\transforms-3\fd838fe7f4d5a2daecf509492074ba4f\transformed\jetified-ml-computer-sdkbase-inner-2.0.5.304\AndroidManifest.xml:8:5-10:41
+MERGED from [com.huawei.hms:ml-computer-sdkbase-inner:2.0.5.304] C:\Users\pavan g\.gradle\caches\transforms-3\fd838fe7f4d5a2daecf509492074ba4f\transformed\jetified-ml-computer-sdkbase-inner-2.0.5.304\AndroidManifest.xml:8:5-10:41
+MERGED from [com.huawei.hms:ml-computer-agc-inner:2.0.5.304] C:\Users\pavan g\.gradle\caches\transforms-3\5c3d1f53c1f5c57a90eab5b2c5e748d1\transformed\jetified-ml-computer-agc-inner-2.0.5.304\AndroidManifest.xml:8:5-10:41
+MERGED from [com.huawei.hms:ml-computer-agc-inner:2.0.5.304] C:\Users\pavan g\.gradle\caches\transforms-3\5c3d1f53c1f5c57a90eab5b2c5e748d1\transformed\jetified-ml-computer-agc-inner-2.0.5.304\AndroidManifest.xml:8:5-10:41
+MERGED from [com.huawei.agconnect:agconnect-core:1.4.0.300] C:\Users\pavan g\.gradle\caches\transforms-3\74ae793eb8e5d5d91a3cf76154cbcb7f\transformed\jetified-agconnect-core-1.4.0.300\AndroidManifest.xml:6:5-8:41
+MERGED from [com.huawei.agconnect:agconnect-core:1.4.0.300] C:\Users\pavan g\.gradle\caches\transforms-3\74ae793eb8e5d5d91a3cf76154cbcb7f\transformed\jetified-agconnect-core-1.4.0.300\AndroidManifest.xml:6:5-8:41
+MERGED from [com.huawei.hmf:tasks:1.4.1.300] C:\Users\pavan g\.gradle\caches\transforms-3\98d4319ef87c2a223fda6ee764d9c786\transformed\jetified-tasks-1.4.1.300\AndroidManifest.xml:6:5-8:41
+MERGED from [com.huawei.hmf:tasks:1.4.1.300] C:\Users\pavan g\.gradle\caches\transforms-3\98d4319ef87c2a223fda6ee764d9c786\transformed\jetified-tasks-1.4.1.300\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\pavan g\.gradle\caches\transforms-3\f73cec0c4ae8a8bdb620e469e7eeb897\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\pavan g\.gradle\caches\transforms-3\f73cec0c4ae8a8bdb620e469e7eeb897\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\5a6c7ebea01dc63f03ba0d820d04d9bb\transformed\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\5a6c7ebea01dc63f03ba0d820d04d9bb\transformed\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huawei.hms:network-framework-compat:4.0.20.301] C:\Users\pavan g\.gradle\caches\transforms-3\6796647969edd53915483303df3762fa\transformed\jetified-network-framework-compat-4.0.20.301\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huawei.hms:network-framework-compat:4.0.20.301] C:\Users\pavan g\.gradle\caches\transforms-3\6796647969edd53915483303df3762fa\transformed\jetified-network-framework-compat-4.0.20.301\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huawei.hms:network-common:4.0.20.301] C:\Users\pavan g\.gradle\caches\transforms-3\4cdb4bddf291785f0b53c32afcd22e44\transformed\jetified-network-common-4.0.20.301\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huawei.hms:network-common:4.0.20.301] C:\Users\pavan g\.gradle\caches\transforms-3\4cdb4bddf291785f0b53c32afcd22e44\transformed\jetified-network-common-4.0.20.301\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huawei.hms:ml-computer-commonutils-inner:2.0.5.304] C:\Users\pavan g\.gradle\caches\transforms-3\9ebb5f647fa1956db18ffe937d21adb0\transformed\jetified-ml-computer-commonutils-inner-2.0.5.304\AndroidManifest.xml:8:5-10:41
+MERGED from [com.huawei.hms:ml-computer-commonutils-inner:2.0.5.304] C:\Users\pavan g\.gradle\caches\transforms-3\9ebb5f647fa1956db18ffe937d21adb0\transformed\jetified-ml-computer-commonutils-inner-2.0.5.304\AndroidManifest.xml:8:5-10:41
+INJECTED from C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\android\app\src\debug\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [:scan] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\scan\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-64
+	android:targetSdkVersion
+		INJECTED from C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\android\app\src\debug\AndroidManifest.xml
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:firebase_crashlytics] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\firebase_crashlytics\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:cloud_firestore] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:cloud_firestore] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_analytics] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\firebase_analytics\intermediates\merged_manifest\debug\AndroidManifest.xml:12:9-16:19
+MERGED from [:firebase_analytics] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\firebase_analytics\intermediates\merged_manifest\debug\AndroidManifest.xml:12:9-16:19
+MERGED from [:firebase_auth] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_auth] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_remote_config] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\firebase_remote_config\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_remote_config] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\firebase_remote_config\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [com.google.firebase:firebase-crashlytics:18.2.13] C:\Users\pavan g\.gradle\caches\transforms-3\ffc29d0eb65a7a4c856158f04e2183a0\transformed\jetified-firebase-crashlytics-18.2.13\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-crashlytics:18.2.13] C:\Users\pavan g\.gradle\caches\transforms-3\ffc29d0eb65a7a4c856158f04e2183a0\transformed\jetified-firebase-crashlytics-18.2.13\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\e1552c0857e12e36abf5ae70ff868c10\transformed\jetified-play-services-measurement-api-21.1.1\AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\e1552c0857e12e36abf5ae70ff868c10\transformed\jetified-play-services-measurement-api-21.1.1\AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.firebase:firebase-firestore:24.3.1] C:\Users\pavan g\.gradle\caches\transforms-3\11c63b2584a98d0d18facc58cadf09d7\transformed\jetified-firebase-firestore-24.3.1\AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:24.3.1] C:\Users\pavan g\.gradle\caches\transforms-3\11c63b2584a98d0d18facc58cadf09d7\transformed\jetified-firebase-firestore-24.3.1\AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-auth:21.0.8] C:\Users\pavan g\.gradle\caches\transforms-3\3ed435f39e4453e17acb9b83397ccee8\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:64:9-70:19
+MERGED from [com.google.firebase:firebase-auth:21.0.8] C:\Users\pavan g\.gradle\caches\transforms-3\3ed435f39e4453e17acb9b83397ccee8\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:64:9-70:19
+MERGED from [com.google.firebase:firebase-config:21.1.2] C:\Users\pavan g\.gradle\caches\transforms-3\3c8be18e562f941f802dc2d95aec95b5\transformed\jetified-firebase-config-21.1.2\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-config:21.1.2] C:\Users\pavan g\.gradle\caches\transforms-3\3c8be18e562f941f802dc2d95aec95b5\transformed\jetified-firebase-config-21.1.2\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-installations:17.0.3] C:\Users\pavan g\.gradle\caches\transforms-3\6fe758d5507236f770482c3d0c591ba2\transformed\jetified-firebase-installations-17.0.3\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-installations:17.0.3] C:\Users\pavan g\.gradle\caches\transforms-3\6fe758d5507236f770482c3d0c591ba2\transformed\jetified-firebase-installations-17.0.3\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-abt:21.0.2] C:\Users\pavan g\.gradle\caches\transforms-3\f23e95c7fa13693e00a3380abd7742d9\transformed\jetified-firebase-abt-21.0.2\AndroidManifest.xml:12:9-16:19
+MERGED from [com.google.firebase:firebase-abt:21.0.2] C:\Users\pavan g\.gradle\caches\transforms-3\f23e95c7fa13693e00a3380abd7742d9\transformed\jetified-firebase-abt-21.0.2\AndroidManifest.xml:12:9-16:19
+MERGED from [com.google.firebase:firebase-common:20.1.2] C:\Users\pavan g\.gradle\caches\transforms-3\de76412fc1043fdff90df7589bbcee2f\transformed\jetified-firebase-common-20.1.2\AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.1.2] C:\Users\pavan g\.gradle\caches\transforms-3\de76412fc1043fdff90df7589bbcee2f\transformed\jetified-firebase-common-20.1.2\AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-crashlytics:18.2.13] C:\Users\pavan g\.gradle\caches\transforms-3\ffc29d0eb65a7a4c856158f04e2183a0\transformed\jetified-firebase-crashlytics-18.2.13\AndroidManifest.xml:17:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.1.2] C:\Users\pavan g\.gradle\caches\transforms-3\de76412fc1043fdff90df7589bbcee2f\transformed\jetified-firebase-common-20.1.2\AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.1.2] C:\Users\pavan g\.gradle\caches\transforms-3\de76412fc1043fdff90df7589bbcee2f\transformed\jetified-firebase-common-20.1.2\AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [:firebase_crashlytics] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\firebase_crashlytics\intermediates\merged_manifest\debug\AndroidManifest.xml:8:18-89
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.crashlytics.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_crashlytics] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\firebase_crashlytics\intermediates\merged_manifest\debug\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_crashlytics] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\firebase_crashlytics\intermediates\merged_manifest\debug\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_crashlytics] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\firebase_crashlytics\intermediates\merged_manifest\debug\AndroidManifest.xml:10:17-130
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.firestore.FlutterFirebaseFirestoreRegistrar
+ADDED from [:cloud_firestore] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:cloud_firestore] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:cloud_firestore] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:10:17-134
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:firebase_analytics] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\firebase_analytics\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\e1552c0857e12e36abf5ae70ff868c10\transformed\jetified-play-services-measurement-api-21.1.1\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\e1552c0857e12e36abf5ae70ff868c10\transformed\jetified-play-services-measurement-api-21.1.1\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\f46fcc4f26d73d577c5192c5e8c5fa51\transformed\jetified-play-services-measurement-21.1.1\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\f46fcc4f26d73d577c5192c5e8c5fa51\transformed\jetified-play-services-measurement-21.1.1\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\8d53355057c8513777b1336fc819c0eb\transformed\jetified-play-services-measurement-impl-21.1.1\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\8d53355057c8513777b1336fc819c0eb\transformed\jetified-play-services-measurement-impl-21.1.1\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\b57e9060b9e5acced630872be92ffe74\transformed\jetified-play-services-measurement-sdk-api-21.1.1\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\b57e9060b9e5acced630872be92ffe74\transformed\jetified-play-services-measurement-sdk-api-21.1.1\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [:firebase_analytics] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\firebase_analytics\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-65
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.analytics.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_analytics] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\firebase_analytics\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-15:85
+	android:value
+		ADDED from [:firebase_analytics] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\firebase_analytics\intermediates\merged_manifest\debug\AndroidManifest.xml:15:17-82
+	android:name
+		ADDED from [:firebase_analytics] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\firebase_analytics\intermediates\merged_manifest\debug\AndroidManifest.xml:14:17-128
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar
+ADDED from [:firebase_auth] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_auth] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_auth] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:10:17-124
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.firebaseremoteconfig.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_remote_config] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\firebase_remote_config\intermediates\merged_manifest\debug\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_remote_config] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\firebase_remote_config\intermediates\merged_manifest\debug\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_remote_config] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\firebase_remote_config\intermediates\merged_manifest\debug\AndroidManifest.xml:10:17-139
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar
+ADDED from [:firebase_core] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_core] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_core] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:10:17-124
+queries
+ADDED from [:file_picker] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\file_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-15:15
+MERGED from [com.github.droibit:customtabslauncher:1.6.0] C:\Users\pavan g\.gradle\caches\transforms-3\46ebdea4a36dadefa33ad7164de27a78\transformed\jetified-customtabslauncher-1.6.0\AndroidManifest.xml:9:5-13:15
+MERGED from [com.github.droibit:customtabslauncher:1.6.0] C:\Users\pavan g\.gradle\caches\transforms-3\46ebdea4a36dadefa33ad7164de27a78\transformed\jetified-customtabslauncher-1.6.0\AndroidManifest.xml:9:5-13:15
+intent#action:name:android.intent.action.GET_CONTENT+data:mimeType:*/*
+ADDED from [:file_picker] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\file_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:18
+action#android.intent.action.GET_CONTENT
+ADDED from [:file_picker] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\file_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-72
+	android:name
+		ADDED from [:file_picker] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\file_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:11:21-69
+data
+ADDED from [:file_picker] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\file_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-44
+	android:mimeType
+		ADDED from [:file_picker] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\file_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:13:19-41
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker_android] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-16:20
+	android:grantUriPermissions
+		ADDED from [:image_picker_android] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-47
+	android:authorities
+		ADDED from [:image_picker_android] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:10:13-74
+	android:exported
+		ADDED from [:image_picker_android] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [:image_picker_android] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:9:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker_android] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-15:75
+	android:resource
+		ADDED from [:image_picker_android] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:15:17-72
+	android:name
+		ADDED from [:image_picker_android] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:14:17-67
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher_android] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-11:74
+	android:exported
+		ADDED from [:url_launcher_android] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [:url_launcher_android] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-71
+	android:name
+		ADDED from [:url_launcher_android] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:9:13-74
+uses-permission#android.permission.VIBRATE
+ADDED from [:scan] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\scan\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-66
+	android:name
+		ADDED from [:scan] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\scan\intermediates\merged_manifest\debug\AndroidManifest.xml:11:22-63
+provider#io.flutter.plugins.share.ShareFileProvider
+ADDED from [:share] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\share\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-16:20
+	android:grantUriPermissions
+		ADDED from [:share] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\share\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-47
+	android:authorities
+		ADDED from [:share] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\share\intermediates\merged_manifest\debug\AndroidManifest.xml:10:13-74
+	android:exported
+		ADDED from [:share] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\share\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [:share] C:\Users\pavan g\Music\own-projects\KiviCare Flutter v6.0.1\FlutterCode\kivicare_flutter\build\share\intermediates\merged_manifest\debug\AndroidManifest.xml:9:13-70
+intent#action:name:android.support.customtabs.action.CustomTabsService
+ADDED from [com.github.droibit:customtabslauncher:1.6.0] C:\Users\pavan g\.gradle\caches\transforms-3\46ebdea4a36dadefa33ad7164de27a78\transformed\jetified-customtabslauncher-1.6.0\AndroidManifest.xml:10:9-12:18
+action#android.support.customtabs.action.CustomTabsService
+ADDED from [com.github.droibit:customtabslauncher:1.6.0] C:\Users\pavan g\.gradle\caches\transforms-3\46ebdea4a36dadefa33ad7164de27a78\transformed\jetified-customtabslauncher-1.6.0\AndroidManifest.xml:11:13-90
+	android:name
+		ADDED from [com.github.droibit:customtabslauncher:1.6.0] C:\Users\pavan g\.gradle\caches\transforms-3\46ebdea4a36dadefa33ad7164de27a78\transformed\jetified-customtabslauncher-1.6.0\AndroidManifest.xml:11:21-87
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:20.4.1] C:\Users\pavan g\.gradle\caches\transforms-3\5f803d0257221eb5daf19fb31cc49c05\transformed\jetified-play-services-auth-20.4.1\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:20.4.1] C:\Users\pavan g\.gradle\caches\transforms-3\5f803d0257221eb5daf19fb31cc49c05\transformed\jetified-play-services-auth-20.4.1\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.4.1] C:\Users\pavan g\.gradle\caches\transforms-3\5f803d0257221eb5daf19fb31cc49c05\transformed\jetified-play-services-auth-20.4.1\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:20.4.1] C:\Users\pavan g\.gradle\caches\transforms-3\5f803d0257221eb5daf19fb31cc49c05\transformed\jetified-play-services-auth-20.4.1\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.4.1] C:\Users\pavan g\.gradle\caches\transforms-3\5f803d0257221eb5daf19fb31cc49c05\transformed\jetified-play-services-auth-20.4.1\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:20.4.1] C:\Users\pavan g\.gradle\caches\transforms-3\5f803d0257221eb5daf19fb31cc49c05\transformed\jetified-play-services-auth-20.4.1\AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.4.1] C:\Users\pavan g\.gradle\caches\transforms-3\5f803d0257221eb5daf19fb31cc49c05\transformed\jetified-play-services-auth-20.4.1\AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:20.4.1] C:\Users\pavan g\.gradle\caches\transforms-3\5f803d0257221eb5daf19fb31cc49c05\transformed\jetified-play-services-auth-20.4.1\AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:20.4.1] C:\Users\pavan g\.gradle\caches\transforms-3\5f803d0257221eb5daf19fb31cc49c05\transformed\jetified-play-services-auth-20.4.1\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.4.1] C:\Users\pavan g\.gradle\caches\transforms-3\5f803d0257221eb5daf19fb31cc49c05\transformed\jetified-play-services-auth-20.4.1\AndroidManifest.xml:34:13-89
+meta-data#com.google.firebase.components:com.google.firebase.crashlytics.CrashlyticsRegistrar
+ADDED from [com.google.firebase:firebase-crashlytics:18.2.13] C:\Users\pavan g\.gradle\caches\transforms-3\ffc29d0eb65a7a4c856158f04e2183a0\transformed\jetified-firebase-crashlytics-18.2.13\AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-crashlytics:18.2.13] C:\Users\pavan g\.gradle\caches\transforms-3\ffc29d0eb65a7a4c856158f04e2183a0\transformed\jetified-firebase-crashlytics-18.2.13\AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-crashlytics:18.2.13] C:\Users\pavan g\.gradle\caches\transforms-3\ffc29d0eb65a7a4c856158f04e2183a0\transformed\jetified-firebase-crashlytics-18.2.13\AndroidManifest.xml:19:17-115
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\e1552c0857e12e36abf5ae70ff868c10\transformed\jetified-play-services-measurement-api-21.1.1\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\8d53355057c8513777b1336fc819c0eb\transformed\jetified-play-services-measurement-impl-21.1.1\AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\8d53355057c8513777b1336fc819c0eb\transformed\jetified-play-services-measurement-impl-21.1.1\AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\82689967077af265d7ba9e00307f221b\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\82689967077af265d7ba9e00307f221b\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\b57e9060b9e5acced630872be92ffe74\transformed\jetified-play-services-measurement-sdk-api-21.1.1\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\b57e9060b9e5acced630872be92ffe74\transformed\jetified-play-services-measurement-sdk-api-21.1.1\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\e1552c0857e12e36abf5ae70ff868c10\transformed\jetified-play-services-measurement-api-21.1.1\AndroidManifest.xml:25:22-76
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\e1552c0857e12e36abf5ae70ff868c10\transformed\jetified-play-services-measurement-api-21.1.1\AndroidManifest.xml:31:13-33:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\e1552c0857e12e36abf5ae70ff868c10\transformed\jetified-play-services-measurement-api-21.1.1\AndroidManifest.xml:33:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\e1552c0857e12e36abf5ae70ff868c10\transformed\jetified-play-services-measurement-api-21.1.1\AndroidManifest.xml:32:17-139
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:24.3.1] C:\Users\pavan g\.gradle\caches\transforms-3\11c63b2584a98d0d18facc58cadf09d7\transformed\jetified-firebase-firestore-24.3.1\AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:24.3.1] C:\Users\pavan g\.gradle\caches\transforms-3\11c63b2584a98d0d18facc58cadf09d7\transformed\jetified-firebase-firestore-24.3.1\AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:24.3.1] C:\Users\pavan g\.gradle\caches\transforms-3\11c63b2584a98d0d18facc58cadf09d7\transformed\jetified-firebase-firestore-24.3.1\AndroidManifest.xml:21:17-111
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.8] C:\Users\pavan g\.gradle\caches\transforms-3\3ed435f39e4453e17acb9b83397ccee8\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:27:9-44:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.8] C:\Users\pavan g\.gradle\caches\transforms-3\3ed435f39e4453e17acb9b83397ccee8\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:29:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.8] C:\Users\pavan g\.gradle\caches\transforms-3\3ed435f39e4453e17acb9b83397ccee8\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:31:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.8] C:\Users\pavan g\.gradle\caches\transforms-3\3ed435f39e4453e17acb9b83397ccee8\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:30:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.8] C:\Users\pavan g\.gradle\caches\transforms-3\3ed435f39e4453e17acb9b83397ccee8\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:32:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.8] C:\Users\pavan g\.gradle\caches\transforms-3\3ed435f39e4453e17acb9b83397ccee8\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:28:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:21.0.8] C:\Users\pavan g\.gradle\caches\transforms-3\3ed435f39e4453e17acb9b83397ccee8\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:33:13-43:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:21.0.8] C:\Users\pavan g\.gradle\caches\transforms-3\3ed435f39e4453e17acb9b83397ccee8\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.8] C:\Users\pavan g\.gradle\caches\transforms-3\3ed435f39e4453e17acb9b83397ccee8\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:34:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:21.0.8] C:\Users\pavan g\.gradle\caches\transforms-3\3ed435f39e4453e17acb9b83397ccee8\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.8] C:\Users\pavan g\.gradle\caches\transforms-3\3ed435f39e4453e17acb9b83397ccee8\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:36:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:21.0.8] C:\Users\pavan g\.gradle\caches\transforms-3\3ed435f39e4453e17acb9b83397ccee8\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:37:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.8] C:\Users\pavan g\.gradle\caches\transforms-3\3ed435f39e4453e17acb9b83397ccee8\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:37:27-75
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.8] C:\Users\pavan g\.gradle\caches\transforms-3\3ed435f39e4453e17acb9b83397ccee8\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:45:9-62:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.8] C:\Users\pavan g\.gradle\caches\transforms-3\3ed435f39e4453e17acb9b83397ccee8\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:47:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.8] C:\Users\pavan g\.gradle\caches\transforms-3\3ed435f39e4453e17acb9b83397ccee8\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:49:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.8] C:\Users\pavan g\.gradle\caches\transforms-3\3ed435f39e4453e17acb9b83397ccee8\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:48:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.8] C:\Users\pavan g\.gradle\caches\transforms-3\3ed435f39e4453e17acb9b83397ccee8\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:50:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.8] C:\Users\pavan g\.gradle\caches\transforms-3\3ed435f39e4453e17acb9b83397ccee8\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:46:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:21.0.8] C:\Users\pavan g\.gradle\caches\transforms-3\3ed435f39e4453e17acb9b83397ccee8\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:51:13-61:29
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:21.0.8] C:\Users\pavan g\.gradle\caches\transforms-3\3ed435f39e4453e17acb9b83397ccee8\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:67:13-69:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:21.0.8] C:\Users\pavan g\.gradle\caches\transforms-3\3ed435f39e4453e17acb9b83397ccee8\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:69:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.8] C:\Users\pavan g\.gradle\caches\transforms-3\3ed435f39e4453e17acb9b83397ccee8\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:68:17-109
+meta-data#com.google.firebase.components:com.google.firebase.remoteconfig.RemoteConfigRegistrar
+ADDED from [com.google.firebase:firebase-config:21.1.2] C:\Users\pavan g\.gradle\caches\transforms-3\3c8be18e562f941f802dc2d95aec95b5\transformed\jetified-firebase-config-21.1.2\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-config:21.1.2] C:\Users\pavan g\.gradle\caches\transforms-3\3c8be18e562f941f802dc2d95aec95b5\transformed\jetified-firebase-config-21.1.2\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-config:21.1.2] C:\Users\pavan g\.gradle\caches\transforms-3\3c8be18e562f941f802dc2d95aec95b5\transformed\jetified-firebase-config-21.1.2\AndroidManifest.xml:33:17-117
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.0.3] C:\Users\pavan g\.gradle\caches\transforms-3\6fe758d5507236f770482c3d0c591ba2\transformed\jetified-firebase-installations-17.0.3\AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.0.3] C:\Users\pavan g\.gradle\caches\transforms-3\6fe758d5507236f770482c3d0c591ba2\transformed\jetified-firebase-installations-17.0.3\AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.0.3] C:\Users\pavan g\.gradle\caches\transforms-3\6fe758d5507236f770482c3d0c591ba2\transformed\jetified-firebase-installations-17.0.3\AndroidManifest.xml:19:17-127
+meta-data#com.google.firebase.components:com.google.firebase.abt.component.AbtRegistrar
+ADDED from [com.google.firebase:firebase-abt:21.0.2] C:\Users\pavan g\.gradle\caches\transforms-3\f23e95c7fa13693e00a3380abd7742d9\transformed\jetified-firebase-abt-21.0.2\AndroidManifest.xml:13:13-15:85
+	android:value
+		ADDED from [com.google.firebase:firebase-abt:21.0.2] C:\Users\pavan g\.gradle\caches\transforms-3\f23e95c7fa13693e00a3380abd7742d9\transformed\jetified-firebase-abt-21.0.2\AndroidManifest.xml:15:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-abt:21.0.2] C:\Users\pavan g\.gradle\caches\transforms-3\f23e95c7fa13693e00a3380abd7742d9\transformed\jetified-firebase-abt-21.0.2\AndroidManifest.xml:14:17-109
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.1.2] C:\Users\pavan g\.gradle\caches\transforms-3\de76412fc1043fdff90df7589bbcee2f\transformed\jetified-firebase-common-20.1.2\AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.1.2] C:\Users\pavan g\.gradle\caches\transforms-3\de76412fc1043fdff90df7589bbcee2f\transformed\jetified-firebase-common-20.1.2\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.1.2] C:\Users\pavan g\.gradle\caches\transforms-3\de76412fc1043fdff90df7589bbcee2f\transformed\jetified-firebase-common-20.1.2\AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.1.2] C:\Users\pavan g\.gradle\caches\transforms-3\de76412fc1043fdff90df7589bbcee2f\transformed\jetified-firebase-common-20.1.2\AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.1.2] C:\Users\pavan g\.gradle\caches\transforms-3\de76412fc1043fdff90df7589bbcee2f\transformed\jetified-firebase-common-20.1.2\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.1.2] C:\Users\pavan g\.gradle\caches\transforms-3\de76412fc1043fdff90df7589bbcee2f\transformed\jetified-firebase-common-20.1.2\AndroidManifest.xml:27:13-77
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\f46fcc4f26d73d577c5192c5e8c5fa51\transformed\jetified-play-services-measurement-21.1.1\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\8d53355057c8513777b1336fc819c0eb\transformed\jetified-play-services-measurement-impl-21.1.1\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\8d53355057c8513777b1336fc819c0eb\transformed\jetified-play-services-measurement-impl-21.1.1\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\f46fcc4f26d73d577c5192c5e8c5fa51\transformed\jetified-play-services-measurement-21.1.1\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\f46fcc4f26d73d577c5192c5e8c5fa51\transformed\jetified-play-services-measurement-21.1.1\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\f46fcc4f26d73d577c5192c5e8c5fa51\transformed\jetified-play-services-measurement-21.1.1\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\f46fcc4f26d73d577c5192c5e8c5fa51\transformed\jetified-play-services-measurement-21.1.1\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\f46fcc4f26d73d577c5192c5e8c5fa51\transformed\jetified-play-services-measurement-21.1.1\AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\f46fcc4f26d73d577c5192c5e8c5fa51\transformed\jetified-play-services-measurement-21.1.1\AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\f46fcc4f26d73d577c5192c5e8c5fa51\transformed\jetified-play-services-measurement-21.1.1\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\f46fcc4f26d73d577c5192c5e8c5fa51\transformed\jetified-play-services-measurement-21.1.1\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\f46fcc4f26d73d577c5192c5e8c5fa51\transformed\jetified-play-services-measurement-21.1.1\AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\f46fcc4f26d73d577c5192c5e8c5fa51\transformed\jetified-play-services-measurement-21.1.1\AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\f46fcc4f26d73d577c5192c5e8c5fa51\transformed\jetified-play-services-measurement-21.1.1\AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\f46fcc4f26d73d577c5192c5e8c5fa51\transformed\jetified-play-services-measurement-21.1.1\AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\f46fcc4f26d73d577c5192c5e8c5fa51\transformed\jetified-play-services-measurement-21.1.1\AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.1.1] C:\Users\pavan g\.gradle\caches\transforms-3\f46fcc4f26d73d577c5192c5e8c5fa51\transformed\jetified-play-services-measurement-21.1.1\AndroidManifest.xml:40:13-87
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\pavan g\.gradle\caches\transforms-3\79cc58874c9e041aad2678a983ec6360\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\pavan g\.gradle\caches\transforms-3\79cc58874c9e041aad2678a983ec6360\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\pavan g\.gradle\caches\transforms-3\79cc58874c9e041aad2678a983ec6360\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\pavan g\.gradle\caches\transforms-3\79cc58874c9e041aad2678a983ec6360\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\pavan g\.gradle\caches\transforms-3\e6848d90a3e5fac83b0282305bfdbd72\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\pavan g\.gradle\caches\transforms-3\e6848d90a3e5fac83b0282305bfdbd72\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\pavan g\.gradle\caches\transforms-3\e6848d90a3e5fac83b0282305bfdbd72\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\pavan g\.gradle\caches\transforms-3\ac64a08067c68c4c2a34d24a1770e09f\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\pavan g\.gradle\caches\transforms-3\ac64a08067c68c4c2a34d24a1770e09f\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\pavan g\.gradle\caches\transforms-3\ac64a08067c68c4c2a34d24a1770e09f\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\pavan g\.gradle\caches\transforms-3\ac64a08067c68c4c2a34d24a1770e09f\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\pavan g\.gradle\caches\transforms-3\ac64a08067c68c4c2a34d24a1770e09f\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\pavan g\.gradle\caches\transforms-3\ac64a08067c68c4c2a34d24a1770e09f\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.7] C:\Users\pavan g\.gradle\caches\transforms-3\0e9a7468c0ff93732a1ef717415dbc15\transformed\jetified-transport-backend-cct-3.1.7\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.7] C:\Users\pavan g\.gradle\caches\transforms-3\1a615f561b1cf1fb5f1668371031423b\transformed\jetified-transport-runtime-3.1.7\AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.7] C:\Users\pavan g\.gradle\caches\transforms-3\1a615f561b1cf1fb5f1668371031423b\transformed\jetified-transport-runtime-3.1.7\AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.7] C:\Users\pavan g\.gradle\caches\transforms-3\0e9a7468c0ff93732a1ef717415dbc15\transformed\jetified-transport-backend-cct-3.1.7\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.7] C:\Users\pavan g\.gradle\caches\transforms-3\0e9a7468c0ff93732a1ef717415dbc15\transformed\jetified-transport-backend-cct-3.1.7\AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.7] C:\Users\pavan g\.gradle\caches\transforms-3\0e9a7468c0ff93732a1ef717415dbc15\transformed\jetified-transport-backend-cct-3.1.7\AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.7] C:\Users\pavan g\.gradle\caches\transforms-3\0e9a7468c0ff93732a1ef717415dbc15\transformed\jetified-transport-backend-cct-3.1.7\AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.7] C:\Users\pavan g\.gradle\caches\transforms-3\0e9a7468c0ff93732a1ef717415dbc15\transformed\jetified-transport-backend-cct-3.1.7\AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.7] C:\Users\pavan g\.gradle\caches\transforms-3\1a615f561b1cf1fb5f1668371031423b\transformed\jetified-transport-runtime-3.1.7\AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.7] C:\Users\pavan g\.gradle\caches\transforms-3\1a615f561b1cf1fb5f1668371031423b\transformed\jetified-transport-runtime-3.1.7\AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.7] C:\Users\pavan g\.gradle\caches\transforms-3\1a615f561b1cf1fb5f1668371031423b\transformed\jetified-transport-runtime-3.1.7\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.7] C:\Users\pavan g\.gradle\caches\transforms-3\1a615f561b1cf1fb5f1668371031423b\transformed\jetified-transport-runtime-3.1.7\AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.7] C:\Users\pavan g\.gradle\caches\transforms-3\1a615f561b1cf1fb5f1668371031423b\transformed\jetified-transport-runtime-3.1.7\AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.7] C:\Users\pavan g\.gradle\caches\transforms-3\1a615f561b1cf1fb5f1668371031423b\transformed\jetified-transport-runtime-3.1.7\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.7] C:\Users\pavan g\.gradle\caches\transforms-3\1a615f561b1cf1fb5f1668371031423b\transformed\jetified-transport-runtime-3.1.7\AndroidManifest.xml:33:13-132
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\7e0f0259e26c150d820cc0a71795ed4c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\pavan g\.gradle\caches\transforms-3\4f497b4a933bc0f6e2ce3b4abaeb4ad1\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\pavan g\.gradle\caches\transforms-3\4f497b4a933bc0f6e2ce3b4abaeb4ad1\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\1a3864e246ce0b5ea6e15c39be616811\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\1a3864e246ce0b5ea6e15c39be616811\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\7e0f0259e26c150d820cc0a71795ed4c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\7e0f0259e26c150d820cc0a71795ed4c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\7e0f0259e26c150d820cc0a71795ed4c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\7e0f0259e26c150d820cc0a71795ed4c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\7e0f0259e26c150d820cc0a71795ed4c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\7e0f0259e26c150d820cc0a71795ed4c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\pavan g\.gradle\caches\transforms-3\7e0f0259e26c150d820cc0a71795ed4c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\pavan g\.gradle\caches\transforms-3\4f497b4a933bc0f6e2ce3b4abaeb4ad1\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\pavan g\.gradle\caches\transforms-3\4f497b4a933bc0f6e2ce3b4abaeb4ad1\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\pavan g\.gradle\caches\transforms-3\4f497b4a933bc0f6e2ce3b4abaeb4ad1\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+meta-data#huawei_module_scankit_local
+ADDED from [com.huawei.hms:scanplus:2.1.0.300] C:\Users\pavan g\.gradle\caches\transforms-3\ec5019b1b42581db05cd6ac30cd344b1\transformed\jetified-scanplus-2.1.0.300\AndroidManifest.xml:14:9-16:40
+	android:value
+		ADDED from [com.huawei.hms:scanplus:2.1.0.300] C:\Users\pavan g\.gradle\caches\transforms-3\ec5019b1b42581db05cd6ac30cd344b1\transformed\jetified-scanplus-2.1.0.300\AndroidManifest.xml:16:13-37
+	android:name
+		ADDED from [com.huawei.hms:scanplus:2.1.0.300] C:\Users\pavan g\.gradle\caches\transforms-3\ec5019b1b42581db05cd6ac30cd344b1\transformed\jetified-scanplus-2.1.0.300\AndroidManifest.xml:15:13-55
+meta-data#huawei_module_scankit_sdk_version
+ADDED from [com.huawei.hms:scanplus:2.1.0.300] C:\Users\pavan g\.gradle\caches\transforms-3\ec5019b1b42581db05cd6ac30cd344b1\transformed\jetified-scanplus-2.1.0.300\AndroidManifest.xml:17:9-19:50
+	android:value
+		ADDED from [com.huawei.hms:scanplus:2.1.0.300] C:\Users\pavan g\.gradle\caches\transforms-3\ec5019b1b42581db05cd6ac30cd344b1\transformed\jetified-scanplus-2.1.0.300\AndroidManifest.xml:19:13-47
+	android:name
+		ADDED from [com.huawei.hms:scanplus:2.1.0.300] C:\Users\pavan g\.gradle\caches\transforms-3\ec5019b1b42581db05cd6ac30cd344b1\transformed\jetified-scanplus-2.1.0.300\AndroidManifest.xml:18:13-61
+meta-data#com.huawei.hms.client.service.name:scanplus
+ADDED from [com.huawei.hms:scanplus:2.1.0.300] C:\Users\pavan g\.gradle\caches\transforms-3\ec5019b1b42581db05cd6ac30cd344b1\transformed\jetified-scanplus-2.1.0.300\AndroidManifest.xml:20:9-22:50
+	android:value
+		ADDED from [com.huawei.hms:scanplus:2.1.0.300] C:\Users\pavan g\.gradle\caches\transforms-3\ec5019b1b42581db05cd6ac30cd344b1\transformed\jetified-scanplus-2.1.0.300\AndroidManifest.xml:22:13-47
+	android:name
+		ADDED from [com.huawei.hms:scanplus:2.1.0.300] C:\Users\pavan g\.gradle\caches\transforms-3\ec5019b1b42581db05cd6ac30cd344b1\transformed\jetified-scanplus-2.1.0.300\AndroidManifest.xml:21:13-71
+meta-data#com.huawei.hms.min_api_level:scanplus:huawei_module_scankit
+ADDED from [com.huawei.hms:scanplus:2.1.0.300] C:\Users\pavan g\.gradle\caches\transforms-3\ec5019b1b42581db05cd6ac30cd344b1\transformed\jetified-scanplus-2.1.0.300\AndroidManifest.xml:23:9-25:33
+	android:value
+		ADDED from [com.huawei.hms:scanplus:2.1.0.300] C:\Users\pavan g\.gradle\caches\transforms-3\ec5019b1b42581db05cd6ac30cd344b1\transformed\jetified-scanplus-2.1.0.300\AndroidManifest.xml:25:13-30
+	android:name
+		ADDED from [com.huawei.hms:scanplus:2.1.0.300] C:\Users\pavan g\.gradle\caches\transforms-3\ec5019b1b42581db05cd6ac30cd344b1\transformed\jetified-scanplus-2.1.0.300\AndroidManifest.xml:24:13-87
+meta-data#com.huawei.hms.min_api_level:scanplus:hmscore
+ADDED from [com.huawei.hms:scanplus:2.1.0.300] C:\Users\pavan g\.gradle\caches\transforms-3\ec5019b1b42581db05cd6ac30cd344b1\transformed\jetified-scanplus-2.1.0.300\AndroidManifest.xml:26:9-28:33
+	android:value
+		ADDED from [com.huawei.hms:scanplus:2.1.0.300] C:\Users\pavan g\.gradle\caches\transforms-3\ec5019b1b42581db05cd6ac30cd344b1\transformed\jetified-scanplus-2.1.0.300\AndroidManifest.xml:28:13-30
+	android:name
+		ADDED from [com.huawei.hms:scanplus:2.1.0.300] C:\Users\pavan g\.gradle\caches\transforms-3\ec5019b1b42581db05cd6ac30cd344b1\transformed\jetified-scanplus-2.1.0.300\AndroidManifest.xml:27:13-73
+activity#com.huawei.hms.hmsscankit.ScanKitActivity
+ADDED from [com.huawei.hms:scanplus:2.1.0.300] C:\Users\pavan g\.gradle\caches\transforms-3\ec5019b1b42581db05cd6ac30cd344b1\transformed\jetified-scanplus-2.1.0.300\AndroidManifest.xml:30:9-78
+	android:name
+		ADDED from [com.huawei.hms:scanplus:2.1.0.300] C:\Users\pavan g\.gradle\caches\transforms-3\ec5019b1b42581db05cd6ac30cd344b1\transformed\jetified-scanplus-2.1.0.300\AndroidManifest.xml:30:19-75
+uses-library#org.apache.http.legacy
+ADDED from [com.huawei.android.hms:security-ssl:1.1.5.301] C:\Users\pavan g\.gradle\caches\transforms-3\501054fa21dee1f75c0c36f47d6c78b1\transformed\jetified-security-ssl-1.1.5.301\AndroidManifest.xml:10:9-12:40
+	android:required
+		ADDED from [com.huawei.android.hms:security-ssl:1.1.5.301] C:\Users\pavan g\.gradle\caches\transforms-3\501054fa21dee1f75c0c36f47d6c78b1\transformed\jetified-security-ssl-1.1.5.301\AndroidManifest.xml:12:13-37
+	android:name
+		ADDED from [com.huawei.android.hms:security-ssl:1.1.5.301] C:\Users\pavan g\.gradle\caches\transforms-3\501054fa21dee1f75c0c36f47d6c78b1\transformed\jetified-security-ssl-1.1.5.301\AndroidManifest.xml:11:13-50
+uses-feature#android.hardware.camera
+ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\pavan g\.gradle\caches\transforms-3\1bda60c28220ed680095f6bf4cd73067\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:25:5-27:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\pavan g\.gradle\caches\transforms-3\1bda60c28220ed680095f6bf4cd73067\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:27:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\pavan g\.gradle\caches\transforms-3\1bda60c28220ed680095f6bf4cd73067\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:26:9-47
+uses-feature#android.hardware.camera.front
+ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\pavan g\.gradle\caches\transforms-3\1bda60c28220ed680095f6bf4cd73067\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:28:5-30:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\pavan g\.gradle\caches\transforms-3\1bda60c28220ed680095f6bf4cd73067\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:30:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\pavan g\.gradle\caches\transforms-3\1bda60c28220ed680095f6bf4cd73067\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:29:9-53
+uses-feature#android.hardware.camera.autofocus
+ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\pavan g\.gradle\caches\transforms-3\1bda60c28220ed680095f6bf4cd73067\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:33:5-35:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\pavan g\.gradle\caches\transforms-3\1bda60c28220ed680095f6bf4cd73067\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:35:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\pavan g\.gradle\caches\transforms-3\1bda60c28220ed680095f6bf4cd73067\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:34:9-57
+uses-feature#android.hardware.camera.flash
+ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\pavan g\.gradle\caches\transforms-3\1bda60c28220ed680095f6bf4cd73067\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:36:5-38:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\pavan g\.gradle\caches\transforms-3\1bda60c28220ed680095f6bf4cd73067\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:38:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\pavan g\.gradle\caches\transforms-3\1bda60c28220ed680095f6bf4cd73067\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:37:9-53
+uses-feature#android.hardware.screen.landscape
+ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\pavan g\.gradle\caches\transforms-3\1bda60c28220ed680095f6bf4cd73067\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:39:5-41:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\pavan g\.gradle\caches\transforms-3\1bda60c28220ed680095f6bf4cd73067\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:41:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\pavan g\.gradle\caches\transforms-3\1bda60c28220ed680095f6bf4cd73067\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:40:9-57
+uses-feature#android.hardware.wifi
+ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\pavan g\.gradle\caches\transforms-3\1bda60c28220ed680095f6bf4cd73067\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:42:5-44:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\pavan g\.gradle\caches\transforms-3\1bda60c28220ed680095f6bf4cd73067\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:44:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\pavan g\.gradle\caches\transforms-3\1bda60c28220ed680095f6bf4cd73067\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:43:9-45
+activity#com.journeyapps.barcodescanner.CaptureActivity
+ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\pavan g\.gradle\caches\transforms-3\1bda60c28220ed680095f6bf4cd73067\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:47:9-53:63
+	android:screenOrientation
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\pavan g\.gradle\caches\transforms-3\1bda60c28220ed680095f6bf4cd73067\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:50:13-56
+	android:clearTaskOnLaunch
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\pavan g\.gradle\caches\transforms-3\1bda60c28220ed680095f6bf4cd73067\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:49:13-45
+	android:stateNotNeeded
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\pavan g\.gradle\caches\transforms-3\1bda60c28220ed680095f6bf4cd73067\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:51:13-42
+	android:windowSoftInputMode
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\pavan g\.gradle\caches\transforms-3\1bda60c28220ed680095f6bf4cd73067\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:53:13-60
+	android:theme
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\pavan g\.gradle\caches\transforms-3\1bda60c28220ed680095f6bf4cd73067\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:52:13-54
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\pavan g\.gradle\caches\transforms-3\1bda60c28220ed680095f6bf4cd73067\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:48:13-74
+meta-data#com.huawei.hms.client.service.name:dynamic-api
+ADDED from [com.huawei.hms:dynamic-api:1.0.13.303] C:\Users\pavan g\.gradle\caches\transforms-3\b76e3711cb18287e1477badf13187abf\transformed\jetified-dynamic-api-1.0.13.303\AndroidManifest.xml:12:9-14:54
+	android:value
+		ADDED from [com.huawei.hms:dynamic-api:1.0.13.303] C:\Users\pavan g\.gradle\caches\transforms-3\b76e3711cb18287e1477badf13187abf\transformed\jetified-dynamic-api-1.0.13.303\AndroidManifest.xml:14:13-51
+	android:name
+		ADDED from [com.huawei.hms:dynamic-api:1.0.13.303] C:\Users\pavan g\.gradle\caches\transforms-3\b76e3711cb18287e1477badf13187abf\transformed\jetified-dynamic-api-1.0.13.303\AndroidManifest.xml:13:13-74
+meta-data#com.huawei.hms.min_api_level:dynamic-api:huawei_module_dynamicloader
+ADDED from [com.huawei.hms:dynamic-api:1.0.13.303] C:\Users\pavan g\.gradle\caches\transforms-3\b76e3711cb18287e1477badf13187abf\transformed\jetified-dynamic-api-1.0.13.303\AndroidManifest.xml:15:9-17:33
+	android:value
+		ADDED from [com.huawei.hms:dynamic-api:1.0.13.303] C:\Users\pavan g\.gradle\caches\transforms-3\b76e3711cb18287e1477badf13187abf\transformed\jetified-dynamic-api-1.0.13.303\AndroidManifest.xml:17:13-30
+	android:name
+		ADDED from [com.huawei.hms:dynamic-api:1.0.13.303] C:\Users\pavan g\.gradle\caches\transforms-3\b76e3711cb18287e1477badf13187abf\transformed\jetified-dynamic-api-1.0.13.303\AndroidManifest.xml:16:13-96
+provider#com.huawei.hms.mlsdk.common.provider.MLInitializerProvider
+ADDED from [com.huawei.hms:ml-computer-sdkbase-inner:2.0.5.304] C:\Users\pavan g\.gradle\caches\transforms-3\fd838fe7f4d5a2daecf509492074ba4f\transformed\jetified-ml-computer-sdkbase-inner-2.0.5.304\AndroidManifest.xml:13:9-16:40
+	android:authorities
+		ADDED from [com.huawei.hms:ml-computer-sdkbase-inner:2.0.5.304] C:\Users\pavan g\.gradle\caches\transforms-3\fd838fe7f4d5a2daecf509492074ba4f\transformed\jetified-ml-computer-sdkbase-inner-2.0.5.304\AndroidManifest.xml:15:13-73
+	android:exported
+		ADDED from [com.huawei.hms:ml-computer-sdkbase-inner:2.0.5.304] C:\Users\pavan g\.gradle\caches\transforms-3\fd838fe7f4d5a2daecf509492074ba4f\transformed\jetified-ml-computer-sdkbase-inner-2.0.5.304\AndroidManifest.xml:16:13-37
+	android:name
+		ADDED from [com.huawei.hms:ml-computer-sdkbase-inner:2.0.5.304] C:\Users\pavan g\.gradle\caches\transforms-3\fd838fe7f4d5a2daecf509492074ba4f\transformed\jetified-ml-computer-sdkbase-inner-2.0.5.304\AndroidManifest.xml:14:13-86
+provider#com.huawei.agconnect.core.provider.AGConnectInitializeProvider
+ADDED from [com.huawei.agconnect:agconnect-core:1.4.0.300] C:\Users\pavan g\.gradle\caches\transforms-3\74ae793eb8e5d5d91a3cf76154cbcb7f\transformed\jetified-agconnect-core-1.4.0.300\AndroidManifest.xml:11:9-14:40
+	android:authorities
+		ADDED from [com.huawei.agconnect:agconnect-core:1.4.0.300] C:\Users\pavan g\.gradle\caches\transforms-3\74ae793eb8e5d5d91a3cf76154cbcb7f\transformed\jetified-agconnect-core-1.4.0.300\AndroidManifest.xml:13:13-73
+	android:exported
+		ADDED from [com.huawei.agconnect:agconnect-core:1.4.0.300] C:\Users\pavan g\.gradle\caches\transforms-3\74ae793eb8e5d5d91a3cf76154cbcb7f\transformed\jetified-agconnect-core-1.4.0.300\AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from [com.huawei.agconnect:agconnect-core:1.4.0.300] C:\Users\pavan g\.gradle\caches\transforms-3\74ae793eb8e5d5d91a3cf76154cbcb7f\transformed\jetified-agconnect-core-1.4.0.300\AndroidManifest.xml:12:13-90
+service#com.huawei.agconnect.core.ServiceDiscovery
+ADDED from [com.huawei.agconnect:agconnect-core:1.4.0.300] C:\Users\pavan g\.gradle\caches\transforms-3\74ae793eb8e5d5d91a3cf76154cbcb7f\transformed\jetified-agconnect-core-1.4.0.300\AndroidManifest.xml:16:9-18:40
+	android:exported
+		ADDED from [com.huawei.agconnect:agconnect-core:1.4.0.300] C:\Users\pavan g\.gradle\caches\transforms-3\74ae793eb8e5d5d91a3cf76154cbcb7f\transformed\jetified-agconnect-core-1.4.0.300\AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from [com.huawei.agconnect:agconnect-core:1.4.0.300] C:\Users\pavan g\.gradle\caches\transforms-3\74ae793eb8e5d5d91a3cf76154cbcb7f\transformed\jetified-agconnect-core-1.4.0.300\AndroidManifest.xml:17:13-70

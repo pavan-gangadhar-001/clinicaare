@@ -1,0 +1,20 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="com.chavesgu.scan" >
+5
+6    <uses-sdk
+6-->C:\Users\pavan g\AppData\Local\Pub\Cache\hosted\pub.dev\scan-1.6.0\android\src\main\AndroidManifest.xml:7:5-73
+7        android:minSdkVersion="19"
+7-->C:\Users\pavan g\AppData\Local\Pub\Cache\hosted\pub.dev\scan-1.6.0\android\src\main\AndroidManifest.xml:7:5-73
+8        tools:overrideLibrary="com.google.zxing.client.android" />
+8-->C:\Users\pavan g\AppData\Local\Pub\Cache\hosted\pub.dev\scan-1.6.0\android\src\main\AndroidManifest.xml:7:15-70
+9
+10    <uses-permission android:name="android.permission.CAMERA" />
+10-->C:\Users\pavan g\AppData\Local\Pub\Cache\hosted\pub.dev\scan-1.6.0\android\src\main\AndroidManifest.xml:5:5-65
+10-->C:\Users\pavan g\AppData\Local\Pub\Cache\hosted\pub.dev\scan-1.6.0\android\src\main\AndroidManifest.xml:5:22-62
+11    <uses-permission android:name="android.permission.VIBRATE" />
+11-->C:\Users\pavan g\AppData\Local\Pub\Cache\hosted\pub.dev\scan-1.6.0\android\src\main\AndroidManifest.xml:6:5-65
+11-->C:\Users\pavan g\AppData\Local\Pub\Cache\hosted\pub.dev\scan-1.6.0\android\src\main\AndroidManifest.xml:6:22-63
+12
+13</manifest>

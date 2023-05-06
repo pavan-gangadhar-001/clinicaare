@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\pavan g\\Music\\own-projects\\KiviCare Flutter v6.0.1\\FlutterCode\\kivicare_flutter\\build\\flutter_plugin_android_lifecycle\\intermediates\\merged_res\\debug\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\pavan g\\.gradle\\caches\\transforms-3\\f45e2b4d182eb9f248c976ff547bb9a5\\transformed\\core-1.6.0\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\pavan g\\Music\\own-projects\\KiviCare Flutter v6.0.1\\FlutterCode\\kivicare_flutter\\build\\flutter_plugin_android_lifecycle\\intermediates\\merged_res\\debug\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\pavan g\\.gradle\\caches\\transforms-3\\f45e2b4d182eb9f248c976ff547bb9a5\\transformed\\core-1.6.0\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\pavan g\\Music\\own-projects\\KiviCare Flutter v6.0.1\\FlutterCode\\kivicare_flutter\\build\\flutter_plugin_android_lifecycle\\intermediates\\merged_res\\debug\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\pavan g\\.gradle\\caches\\transforms-3\\f45e2b4d182eb9f248c976ff547bb9a5\\transformed\\core-1.6.0\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\pavan g\\Music\\own-projects\\KiviCare Flutter v6.0.1\\FlutterCode\\kivicare_flutter\\build\\flutter_plugin_android_lifecycle\\intermediates\\merged_res\\debug\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\pavan g\\.gradle\\caches\\transforms-3\\f45e2b4d182eb9f248c976ff547bb9a5\\transformed\\core-1.6.0\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\pavan g\\Music\\own-projects\\KiviCare Flutter v6.0.1\\FlutterCode\\kivicare_flutter\\build\\flutter_plugin_android_lifecycle\\intermediates\\merged_res\\debug\\drawable-xhdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\pavan g\\.gradle\\caches\\transforms-3\\f45e2b4d182eb9f248c976ff547bb9a5\\transformed\\core-1.6.0\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    }
+]
