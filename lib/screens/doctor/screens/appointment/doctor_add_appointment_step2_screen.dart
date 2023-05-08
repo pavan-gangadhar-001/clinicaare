@@ -39,7 +39,7 @@ class _DoctorAddAppointmentStep2ScreenState extends State<DoctorAddAppointmentSt
   TextEditingController descriptionCont = TextEditingController();
   TextEditingController patientNameCont = TextEditingController();
   TextEditingController patientIdCont = TextEditingController();
-  bool isUpdate = false;
+  bool isUpdate = true;
 
   String? appointmentStatus = locale.lblBooked;
 
@@ -74,42 +74,42 @@ class _DoctorAddAppointmentStep2ScreenState extends State<DoctorAddAppointmentSt
     return FutureBuilder<PatientListModel>(
       future: _memorizer.runOnce(() => getPatientList()),
       builder: (_, snap) {
-        if (snap.hasData) {
-          patientName.clear();
+        
+          // patientName.clear();
 
-          snap.data!.patientData?.forEach((element) {
-            patientName.add(element.display_name);
-          });
+          // snap.data!.patientData?.forEach((element) {
+          //   patientName.add(element.display_name);
+          // });
           return AppTextField(
             controller: patientNameCont,
             textFieldType: TextFieldType.OTHER,
-            validator: (s) {
-              if (s!.trim().isEmpty) return locale.lblPatientNameIsRequired;
-              return null;
-            },
+            // validator: (s) {
+            //   if (s!.trim().isEmpty) return locale.lblPatientNameIsRequired;
+            //   return null;
+            // },
             decoration: inputDecoration(
               context: context,
               labelText: locale.lblPatientName,
             ).copyWith(suffixIcon: ic_user.iconImage(size: 10, color: context.iconColor).paddingAll(14)),
-            readOnly: true,
+            // readOnly: true,
             onTap: () async {
-              String? value = await DPatientSelectScreen(searchList: patientName, name: locale.lblPatientName).launch(context, pageRouteAnimation: PageRouteAnimation.Slide);
-              if (value == null) {
-                patientNameCont.clear();
-              } else {
-                patientList = snap.data!.patientData!.where((element) => element.display_name == value).toList();
-                appointmentAppStore.setSelectedPatient(value);
-                patientNameCont.text = value;
-                patientIdCont.text = patientList.first!.iD.toString();
+              // String? value = await DPatientSelectScreen(searchList: patientName, name: locale.lblPatientName).launch(context, pageRouteAnimation: PageRouteAnimation.Slide);
+              // if (value == null) {
+              //   patientNameCont.clear();
+              // } else {
+              //   patientList = snap.data!.patientData!.where((element) => element.display_name == value).toList();
+              //   appointmentAppStore.setSelectedPatient(value);
+              //   patientNameCont.text = value;
+              //   patientIdCont.text = patientList.first!.iD.toString();
 
-                appointmentAppStore.setSelectedPatientId(patientIdCont.text.toInt());
-              }
-              return;
+              //   appointmentAppStore.setSelectedPatientId(patientIdCont.text.toInt());
+              // }
+              // return;
             },
           );
-        }
-
-        return snapWidgetHelper(snap, errorWidget: NoDataFoundWidget(text: errorMessage), loadingWidget: LoaderWidget(size: loaderSize));
+        
+        
+        // return snapWidgetHelper(snap, errorWidget: NoDataFoundWidget(text: errorMessage), loadingWidget: LoaderWidget(size: loaderSize));
       },
     );
   }

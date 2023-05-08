@@ -50,7 +50,7 @@ class _DFileUploadComponentState extends State<DFileUploadComponent> {
           AppTextField(
             controller: fileCont,
             textFieldType: TextFieldType.OTHER,
-            readOnly: true,
+            // readOnly: true,
             decoration: inputDecoration(context: context, labelText: locale.lblAddMedicalReport).copyWith(
               suffixIcon: Row(
                 mainAxisSize: MainAxisSize.min,

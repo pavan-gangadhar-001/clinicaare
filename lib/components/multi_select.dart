@@ -98,7 +98,8 @@ class _MultiSelectWidgetState extends State<MultiSelectWidget> {
     });
     setState(() {});
   }
-
+  bool check = false;
+  List data = ['Physio', 'Cardio', 'Dental' , 'Psychiatry'];
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -124,10 +125,10 @@ class _MultiSelectWidgetState extends State<MultiSelectWidget> {
               ),
               8.height,
               AnimatedListView(
-                itemCount: servicesList.length,
+                itemCount:data.length,
                 shrinkWrap: true,
                 itemBuilder: (context, index) {
-                  ServiceData data = servicesList[index];
+                  // ServiceData data = servicesList[index];
                   return Theme(
                     data: ThemeData(
                       unselectedWidgetColor: primaryColor,
@@ -135,25 +136,26 @@ class _MultiSelectWidgetState extends State<MultiSelectWidget> {
                     child: CheckboxListTile(
                       controlAffinity: ListTileControlAffinity.leading,
                       contentPadding: EdgeInsets.all(0),
-                      value: data.isCheck,
+                      value: check,
                       onChanged: (v) {
-                        data.isCheck = !data.isCheck;
-                        if (v!) {
-                          multiSelectStore.addSingleItem(data, isClear: false);
-                          widget.selectedServicesId!.add(data.id);
-                        } else {
-                          multiSelectStore.removeItem(data);
-                          widget.selectedServicesId!.remove(data.id);
-                        }
+                        check = !check;
+                        // data.isCheck = !data.isCheck;
+                        // if (v!) {
+                        //   multiSelectStore.addSingleItem(data, isClear: false);
+                        //   widget.selectedServicesId!.add(data.id);
+                        // } else {
+                        //   multiSelectStore.removeItem(data);
+                        //   widget.selectedServicesId!.remove(data.id);
+                        // }
                         setState(() {});
                       },
                       title: Text(
-                        data.name.capitalizeFirstLetter().validate(),
+                       data[index],
                         maxLines: 2,
                         overflow: TextOverflow.ellipsis,
                         style: primaryTextStyle(),
                       ),
-                      secondary: PriceWidget(price: data.charges.validate(), textStyle: boldTextStyle()),
+                      // secondary: PriceWidget(price: data.charges.validate(), textStyle: boldTextStyle()),
                     ),
                   );
                 },

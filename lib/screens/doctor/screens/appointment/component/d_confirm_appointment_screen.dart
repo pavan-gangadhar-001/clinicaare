@@ -45,57 +45,60 @@ class _DConfirmAppointmentScreenState extends State<DConfirmAppointmentScreen> {
 
   void saveAppointment() {
     appStore.setLoading(true);
-    appointmentAppStore.setSelectedDoctor(listAppStore.doctorList.firstWhereOrNull((element) => element!.iD == getIntAsync(USER_ID)));
-    Map<String, dynamic> req = {
-      "id": isUpdate ? "${widget.appointmentId}" : "",
-      "appointment_start_date": "${appointmentAppStore.selectedAppointmentDate.getFormattedDate(CONVERT_DATE)}",
-      "appointment_start_time": "${appointmentAppStore.mSelectedTime.validate()}",
-      "doctor_id": "${getIntAsync(USER_ID)}",
-      "description": "${appointmentAppStore.mDescription.validate()}",
-      "patient_id": '${appointmentAppStore.mPatientId.validate()}',
-      "status": '${appointmentAppStore.mStatusSelected.validate()}',
-    };
+    // appointmentAppStore.setSelectedDoctor(listAppStore.doctorList.firstWhereOrNull((element) => element!.iD == getIntAsync(USER_ID)));
+    // Map<String, dynamic> req = {
+    //   "id": isUpdate ? "${widget.appointmentId}" : "",
+    //   "appointment_start_date": "${appointmentAppStore.selectedAppointmentDate.getFormattedDate(CONVERT_DATE)}",
+    //   "appointment_start_time": "${appointmentAppStore.mSelectedTime.validate()}",
+    //   "doctor_id": "${getIntAsync(USER_ID)}",
+    //   "description": "${appointmentAppStore.mDescription.validate()}",
+    //   "patient_id": '${appointmentAppStore.mPatientId.validate()}',
+    //   "status": '${appointmentAppStore.mStatusSelected.validate()}',
+    // };
 
-    if (isProEnabled()) {
-      req.putIfAbsent("clinic_id", () => "${appointmentAppStore.mClinicSelected!.clinic_id}");
-    } else {
-      req.putIfAbsent("clinic_id", () => getIntAsync(USER_CLINIC));
-    }
-    if (appointmentAppStore.selectedService.isNotEmpty) {
-      appointmentAppStore.selectedService.forEachIndexed((index, element) {
-        req.putIfAbsent("visit_type[$index]", () => '${appointmentAppStore.selectedService[index]}');
-      });
-    }
-    if (appointmentAppStore.reportList.isNotEmpty) {
-      req.putIfAbsent("attachment_count", () => "${appointmentAppStore.reportList.length}");
+    // if (isProEnabled()) {
+    //   req.putIfAbsent("clinic_id", () => "${appointmentAppStore.mClinicSelected!.clinic_id}");
+    // } else {
+    //   req.putIfAbsent("clinic_id", () => getIntAsync(USER_CLINIC));
+    // }
+    // if (appointmentAppStore.selectedService.isNotEmpty) {
+    //   appointmentAppStore.selectedService.forEachIndexed((index, element) {
+    //     req.putIfAbsent("visit_type[$index]", () => '${appointmentAppStore.selectedService[index]}');
+    //   });
+    // }
+    // if (appointmentAppStore.reportList.isNotEmpty) {
+    //   req.putIfAbsent("attachment_count", () => "${appointmentAppStore.reportList.length}");
 
-      appointmentAppStore.reportList.forEachIndexed((index, element) {
-        req.putIfAbsent("appointment_report_$index", () => File(element.path.validate()).path);
-      });
-    }
-    log("---------------------------------------------------------------------------------------------");
-    log("${jsonEncode(req)}");
+    //   appointmentAppStore.reportList.forEachIndexed((index, element) {
+    //     req.putIfAbsent("appointment_report_$index", () => File(element.path.validate()).path);
+    //   });
+    // }
+    // log("---------------------------------------------------------------------------------------------");
+    // log("${jsonEncode(req)}");
 
-    log("---------------------------------------------------------------------------------------------");
-    appointmentRequest.addAppointment(req).then((value) async {
-      if (value != null) {
-        mIsConfirmed = true;
-        setState(() {});
-        appStore.setLoading(false);
-        await 500.milliseconds.delay;
+    // log("---------------------------------------------------------------------------------------------");
+    // appointmentRequest.addAppointment(req).then((value) async {
+    //   if (value != null) {
+    //     mIsConfirmed = true;
+    //     setState(() {});
+    //     appStore.setLoading(false);
+    //     await 500.milliseconds.delay;
 
-        finish(context);
+    //     finish(context);
+    //     finish(context);
+    //     finish(context, true);
+    //     appointmentAppStore.clearAll();
+    //     LiveStream().emit(APP_UPDATE, true);
+    //     LiveStream().emit(UPDATE, true);
+    //   }
+    finish(context);
         finish(context);
         finish(context, true);
-        appointmentAppStore.clearAll();
-        LiveStream().emit(APP_UPDATE, true);
-        LiveStream().emit(UPDATE, true);
-      }
 
       appStore.setLoading(false);
-    }).catchError((e) {
-      log(e.toString());
-    });
+    // }).catchError((e) {
+      // log(e.toString());
+    // });
   }
 
   @override

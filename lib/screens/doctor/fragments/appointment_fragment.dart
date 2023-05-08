@@ -106,6 +106,23 @@ class _AppointmentFragmentState extends State<AppointmentFragment> {
 
     appStore.setLoading(false);
   }
+  List<AppointmentReport> listAp = [AppointmentReport( id :1,url:'')];
+  UpcomingAppointment _upcomingAppointment = UpcomingAppointment(
+
+  all_service_charges : 100,
+  appointment_end_date : '',
+  appointment_end_time : '',
+  clinic_id: '',
+  
+
+
+  
+  );
+
+
+
+
+
 
   @override
   void didUpdateWidget(covariant AppointmentFragment oldWidget) {
@@ -159,7 +176,21 @@ class _AppointmentFragmentState extends State<AppointmentFragment> {
             physics: NeverScrollableScrollPhysics(),
             itemCount: filterList.length,
             itemBuilder: (BuildContext context, int index) {
-              return AppointmentWidget(upcomingData: filterList[index], index: index).paddingSymmetric(vertical: 8);
+              return AppointmentWidget(upcomingData: 
+              filterList[index], 
+      
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              index: index).paddingSymmetric(vertical: 8);
             },
           ).visible(!appStore.isLoading, defaultWidget: LoaderWidget()),
           16.height,

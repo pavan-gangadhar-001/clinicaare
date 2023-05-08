@@ -418,6 +418,7 @@ class _AppointmentWidgetState extends State<AppointmentWidget> {
               ],
             ),
           ),
+      
           Positioned(
             right: 0,
             top: 0,
